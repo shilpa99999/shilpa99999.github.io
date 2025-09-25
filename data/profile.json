@@ -97,51 +97,46 @@
   
   "skills": {
     "programmingLanguages": [
-      "Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, OpenCV, MLFlow)",
+      "C (System Programming and Low-level Development)",
+      "Java (Enterprise Applications and Backend Development)",
       "R (Statistical Computing and Data Analysis)",
       "C++ (Systems Programming and Performance Optimization)",
-      "Java (Enterprise Applications and Backend Development)",
       "Linux (System Administration and Shell Scripting)",
-      "SQL (Database Querying and Data Manipulation)",
-      "JavaScript (Web Development and API Integration)"
+      "Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, OpenCV, MLFlow)"
     ],
     "genaiStack": [
-      "Multi-model RAG Systems (Retrieval-Augmented Generation)",
+      "Multi-model RAGs (Retrieval-Augmented Generation Systems)",
       "GPT-4 (OpenAI Large Language Model)",
       "Claude (Anthropic AI Assistant and Language Model)",
-      "GitHub Copilot (AI-Powered Code Assistance)",
-      "FastAPI (Modern Web Framework for APIs)",
+      "Co-pilot (GitHub AI-Powered Code Assistance)",
+      "Fast API (Modern Web Framework for APIs)",
       "MCP (Model Context Protocol)",
       "Semantic Search (Vector-based Information Retrieval)",
       "Vertex AI (Google Cloud AI Platform)",
-      "Azure AI Factory (Microsoft AI Services)",
+      "Azure Factory (Microsoft AI Services)",
       "LangChain (Framework for LLM Applications)",
       "Hugging Face Transformers (Pre-trained Models)",
       "RLHF (Reinforcement Learning from Human Feedback)",
-      "QLoRA (Quantized Low-Rank Adaptation)"
+      "QLoRA (Quantized Low-Rank Adaptation for Memory-Efficient Training)"
     ],
     "cloudTechStack": [
-      "AWS (Glue, RDS, S3, Athena, EC2, Redshift, Lambda, SageMaker)",
-      "Azure (Databricks, DevOps, Machine Learning, Cognitive Services)",
-      "Google Cloud Platform (BigQuery, Pub/Sub, AI Platform, Vertex AI)",
+      "AWS (Glue, RDS, S3, Athena, EC2, RDS, Redshift, Lambda)",
       "Databricks (Unified Analytics Platform)",
-      "Apache Airflow (Workflow Orchestration)",
-      "Docker (Containerization and Deployment)",
-      "Kubernetes (Container Orchestration)"
+      "GCP (Google Cloud Platform)",
+      "Azure DevOps (Microsoft Development Operations)",
+      "BigQuery (Google Cloud Data Warehouse)",
+      "Airflow (Apache Workflow Orchestration)"
     ],
     "bigDataEcosystem": [
       "PySpark (Large-scale Data Processing)",
-      "Apache Spark (Distributed Computing Framework)",
       "Snowflake (Cloud Data Warehouse)",
-      "Apache Kafka (Real-time Data Streaming)",
-      "Apache Flink (Stream Processing)",
-      "Hadoop (Distributed Storage and Processing)",
-      "HDFS (Hadoop Distributed File System)",
-      "Delta Lake (Data Lake Storage Layer)",
-      "Delta Tables (ACID Transactions for Big Data)",
+      "Kafka (Real-time Data Streaming)",
+      "Flink (Stream Processing)",
       "Data Governance (Policies and Procedures)",
       "Data Modeling (Dimensional and Relational Design)",
-      "Metadata Management (Data Catalog and Lineage)"
+      "Hadoop (Distributed Storage and Processing)",
+      "Delta Lake (Data Lake Storage Layer)",
+      "Delta Tables (ACID Transactions for Big Data)"
     ],
     "databasesStorage": [
       "OLAP (Online Analytical Processing)",
@@ -151,26 +146,20 @@
       "MySQL (Relational Database Management)",
       "NoSQL (Non-relational Database Systems)",
       "SQL Server (Microsoft Database Platform)",
-      "MongoDB (Document-based NoSQL Database)",
-      "Vector Databases (Pinecone, FAISS, Chroma)",
-      "Redis (In-memory Data Structure Store)"
+      "Mongo DB (Document-based NoSQL Database)",
+      "Data Governance (Policies and Procedures)",
+      "Metadata Management (Data Catalog and Lineage)"
     ],
     "machineLearningAlgorithms": [
-      "Artificial Neural Networks (ANN)",
-      "Convolutional Neural Networks (CNN)",
-      "Recurrent Neural Networks (RNN)",
-      "Long Short-Term Memory (LSTM)",
-      "Transformer Architecture",
+      "ANN (Artificial Neural Networks)",
       "Linear Regression (Statistical Modeling)",
+      "CNN (Convolutional Neural Networks)",
       "Logistic Regression (Classification)",
+      "RNN (Recurrent Neural Networks)",
       "Decision Trees (Rule-based Learning)",
-      "Random Forest (Ensemble Method)",
-      "Support Vector Machines (SVM)",
-      "Naive Bayes (Probabilistic Classifier)",
-      "K-Means Clustering (Unsupervised Learning)",
-      "Principal Component Analysis (PCA)",
-      "Natural Language Processing (NLP)",
-      "Computer Vision (Image Processing)"
+      "SVM (Support Vector Machines)",
+      "Random Forests (Ensemble Method)",
+      "Naive Bayes (Probabilistic Classifier)"
     ],
     "dataScienceTools": [
       "Jupyter Notebooks (Interactive Development)",
