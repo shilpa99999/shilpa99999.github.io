@@ -1,233 +1,92 @@
-# Venkata Sai Satish Somesula – Portfolio Website
+# Anusha Yaramala - Professional Portfolio
 
-A modern, JSON-driven portfolio showcasing Mechanical Design & Reliability Engineering experience, projects, and skills.
+**Certified GenAI Specialist & Data Scientist**
+📍 Texas, USA | 📧 anushayaramala31@gmail.com | 📱 +1 (940) 977-1496
 
-## Live
+## 🚀 Live Portfolio
+**Visit: [https://f1jobs-io.github.io/anusha-yaramala-portfolio/](https://f1jobs-io.github.io/anusha-yaramala-portfolio/)**
 
-- Production: https://satish-somesula.com
-- Fallback (GitHub Pages): https://satish-somesula.github.io
+## 👩‍💻 About
+Professional portfolio showcasing 4+ years of experience in GenAI and Data Science, with proven expertise in:
+- **RAG & BERT Models**: 40% manual calls reduction
+- **Neural Network Optimization**: 91.68% F1 Score achievement
+- **GPU Memory Optimization**: 70% reduction in memory usage
+- **MLOps & Cloud Architecture**: AWS, Azure, GCP deployments
 
-## Features
+## 🛠️ Technology Stack
+- **GenAI**: GPT-4, Claude, RAG Systems, LangChain, Hugging Face Transformers
+- **Cloud Platforms**: AWS (S3, Lambda, Glue, Athena), Azure Databricks, GCP
+- **Programming**: Python, R, C++, Java, SQL, JavaScript
+- **Big Data**: PySpark, Snowflake, Kafka, Hadoop, Delta Lake
+- **ML/AI**: PyTorch, TensorFlow, Keras, scikit-learn, NLTK, spaCy
 
-- **JSON-Driven Content**: All profile data stored in a single JSON file
-- **Easy Customization**: Change content without touching HTML/CSS
-- **Responsive Design**: Mobile-first approach with 6 breakpoints
-- **Modern UI**: Clean design with smooth animations and gradients
-- **GitHub Pages Ready**: Static site perfect for GitHub Pages hosting
-- **No Build Tools**: Direct static file serving, no compilation needed
+## 🎯 Key Achievements
+- **40% Manual Calls Reduction** through RAG and BERT model implementation
+- **70% GPU Memory Optimization** via RLHF and QLoRA fine-tuning
+- **91.68% F1 Score** in neural network architecture optimization
+- **35% Query Performance Improvement** in data engineering pipelines
 
-## Quick Start
+## 💼 Professional Experience
+- **GenAI Specialist** @ Brighthouse Financial (Sept 2024 – Present)
+- **Neural Network Engineer** @ Texas Instruments (Feb 2023 – Jul 2024)
+- **Data Engineer** @ Deutsche Bank (May 2021 – Jul 2022)
+- **Data Insights Analyst** @ Vodafone (Sept 2020 – May 2021)
 
-1. **Clone/Download** this repository
-2. **Edit** `data/profile.json` with your information
-3. **Deploy** to GitHub Pages or any static hosting service
-4. **Done!** Your portfolio is live
+## 🎓 Education & Certifications
+- **Master's in Data Science** - University of North Texas (3.9 GPA)
+- **Oracle Cloud Infrastructure GenAI Certified Professional** (2024)
+- **AWS Certified Cloud Practitioner** (2023)
+- **Databricks Certified Developer** (2023)
 
-## Project Structure
+## 🏗️ Portfolio Architecture
+This portfolio is built with:
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Styling**: SCSS with CSS Custom Properties
+- **Data**: JSON-driven content management
+- **Deployment**: GitHub Pages with automated workflows
+- **Performance**: Optimized assets, responsive design
 
-```
-├── index.html              # Main HTML template (with placeholders)
-├── data/
-│   └── profile.json       # All your profile data
-├── assets/
-│   ├── css/              # Compiled stylesheets
-│   ├── js/
-│   │   ├── profile-loader.js  # Dynamic content loader
-│   │   └── main.js           # UI interactions
-│   ├── sass/             # Source stylesheets
-│   └── webfonts/         # Icon fonts
-└── images/               # Your images and media
-```
+## 📱 Features
+- ✅ Fully Responsive Design
+- ✅ Dynamic Content Loading
+- ✅ Professional Project Showcases
+- ✅ Interactive Experience Timeline
+- ✅ Optimized for Job Applications
 
-## Customizing Your Profile
-
-### 1. Edit Profile Information
-
-Open `data/profile.json` and update the following sections:
-
-#### Basic Profile
-```json
-"profile": {
-  "name": "Your Name",
-  "title": "Your Title",
-  "organization": "Your Organization",
-  "profileImage": "images/your-photo.jpg",
-  "cvPath": "assets/Your_CV.pdf"
-}
-```
-
-#### Bio Sections
-```json
-"bio": {
-  "introduction": "Your introduction with <span class='highlight'>highlighted</span> text...",
-  "background": "Your background and experience...",
-  "researchFocus": "Your research interests..."
-}
-```
-
-#### Contact & Social Links
-```json
-"contact": {
-  "email": "your.email@example.com",
-  "linkedin": "https://linkedin.com/in/yourprofile",
-  "github": "https://github.com/yourusername",
-  "googleScholar": "https://scholar.google.com/citations?user=YOUR_ID",
-  "website": "https://yourwebsite.com"
-}
-```
-
-#### Publications
-```json
-"publications": [
-  {
-    "id": "unique-id",
-    "title": "Paper Title",
-    "authors": "You et al",
-    "venue": "Conference/Journal",
-    "description": "Brief description of the work",
-    "image": "images/paper-image.png",
-    "links": {
-      "paper": "https://link-to-paper.com",
-      "github": "https://github.com/repo",
-      "status": "Published" // or "In Review"
-    }
-  }
-]
-```
-
-#### Projects
-```json
-"projects": [
-  {
-    "id": "project-id",
-    "title": "Project Name",
-    "year": "2024",
-    "shortDescription": "Brief description for card front",
-    "detailedDescription": "Detailed description for card back",
-    "media": {
-      "type": "video", // or "image"
-      "src": "images/demo.mp4",
-      "poster": "images/poster.jpg", // for videos
-      "autoplay": true,
-      "loop": true,
-      "muted": true,
-      "controls": false
-    },
-    "techStack": ["Python", "PyTorch", "React"],
-    "links": {
-      "website": "https://project-site.com",
-      "github": "https://github.com/repo",
-      "details": "#"
-    }
-  }
-]
-```
-
-### 2. Add Your Images
-
-1. Place your profile photo in the `images/` directory
-2. Add project screenshots/videos
-3. Add publication preview images
-4. Update the paths in `profile.json`
-
-### 3. Customize Colors (Optional)
-
-Edit the theme colors in `profile.json`:
-
-```json
-"siteConfig": {
-  "themeColors": {
-    "primaryRed": "#C41230",
-    "lightRed": "#e63946",
-    "darkRed": "#a01828",
-    "textDark": "#2b2d42",
-    "textLight": "#6c757d",
-    "bgLight": "#f8f9fa",
-    "white": "#ffffff"
-  }
-}
-```
-
-## Deployment
-
-GitHub Pages via Actions (no build step). See `README_DEPLOY.md` for step-by-step instructions and DNS records.
-
-## Recent Updates
-
-- Mobile-first hero typography and layout
-- Redesigned mobile menu button and smaller header logo
-- Added university logos and retractable skills
-
-### Local Development
-
+## 🔧 Local Development
 ```bash
-# Python 3
-python3 -m http.server 8000
+# Clone the repository
+git clone https://github.com/F1jobs-io/anusha-yaramala-portfolio.git
 
-# Python 2
-python -m SimpleHTTPServer 8000
+# Navigate to directory
+cd anusha-yaramala-portfolio
 
-# Node.js
-npx http-server
+# Serve locally (Python)
+python -m http.server 8000
 
-# Then visit http://localhost:8000
+# Or use any HTTP server
+# Visit: http://localhost:8000
 ```
 
-## Advanced Customization
+## 📊 Project Highlights
 
-### Adding New Sections
+### 🎥 YouTube Trend Analysis Platform
+- **Scale**: 1M+ daily records processing
+- **Tech**: AWS (S3, Lambda, Glue, Athena), Python, Apache Spark
+- **Impact**: 80% trend prediction accuracy
 
-1. Add the section data to `profile.json`
-2. Update `index.html` with placeholder elements
-3. Extend `profile-loader.js` with a new render function
+### 🧠 Neural Network Architecture Optimization
+- **Achievement**: 91.68% F1 Score, 35% complexity reduction
+- **Platform**: Azure Databricks, PyTorch, Keras
+- **Deployment**: Production-ready ML pipeline
 
-### Modifying Styles
+### 🤖 RAG-Powered Intelligent Chatbot
+- **Innovation**: Multi-model RAG with BERT integration
+- **Results**: 40% manual processing reduction, 70% GPU memory savings
+- **Tech**: OpenAI GPT-4, Pinecone, FAISS, LangChain
 
-- Edit SASS files in `assets/sass/`
-- Or directly modify `assets/css/main.css`
-- Custom styles can be added in `index.html` `<style>` section
-
-### Adding Features
-
-- Extend `profile-loader.js` for new functionality
-- Add interactive features in `assets/js/main.js`
-- Maintain responsive design principles
-
-## Tips
-
-- **Images**: Optimize images for web (use WebP/JPEG, compress)
-- **Videos**: Keep videos short and compressed (MP4 H.264)
-- **Content**: Use HTML in descriptions for formatting
-- **Performance**: Lazy load images/videos for better performance
-- **SEO**: Update meta tags in `index.html` for better search visibility
-
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-## Credits
-
-- Base template: [Editorial by HTML5 UP](https://html5up.net)
-- Icons: [Font Awesome](https://fontawesome.com)
-- Fonts: Open Sans, Roboto Slab (Google Fonts)
-
-## License
-
-- Template: Creative Commons Attribution 3.0
-- Your content: Your own copyright
-- Modifications: Open source
-
-## Support
-
-For issues or questions:
-1. Check existing GitHub issues
-2. Review the documentation
-3. Create a new issue with details
+## 📄 License
+© 2025 Anusha Yaramala. All rights reserved.
 
 ---
-
-Made for mechanical design and reliability engineering professionals# Personal_site
-# Personal_site
+*This portfolio demonstrates expertise in GenAI, Machine Learning, and Data Engineering suitable for senior technical roles in AI-driven organizations.*

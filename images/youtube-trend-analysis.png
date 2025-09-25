@@ -1,0 +1,52 @@
+PLACEHOLDER: YouTube Trend Analysis Platform Project Image
+============================================================
+
+Project: YouTube Trend Analysis Platform (2024)
+Category: Data Engineering | AWS Cloud Architecture
+Performance: 1M+ Daily Records, 80% Prediction Accuracy
+
+Visual Design Requirements:
+---------------------------
+1. Primary Elements:
+   - YouTube logo/branding (red play button icon)
+   - AWS architecture diagram showing S3, Lambda, Glue, Athena, QuickSight
+   - Data flow visualization with arrows
+   - Analytics dashboard mockup with trending charts
+   - Cloud infrastructure icons
+
+2. Color Scheme:
+   - YouTube red (#FF0000) for branding
+   - AWS orange (#FF9900) for cloud services
+   - Professional blue/grey tones for data elements
+   - Clean white background
+
+3. Layout Composition:
+   - Top: YouTube trending data visualization (charts, graphs)
+   - Center: AWS architecture flow diagram
+   - Bottom: Key metrics display (1M+ records, 80% accuracy)
+   - Side: Tech stack icons (Python, Spark, SQL)
+
+4. Key Metrics Display:
+   - "1M+ Daily Records Processed"
+   - "80% Trend Prediction Accuracy"
+   - "Real-time Analytics Pipeline"
+   - "AWS Cloud Infrastructure"
+
+5. Technical Architecture:
+   - Data ingestion from YouTube API
+   - S3 storage buckets for raw data
+   - Lambda functions for serverless processing
+   - Glue ETL jobs for data transformation
+   - Athena for analytical queries
+   - QuickSight dashboard for visualization
+
+Alternative Text Description:
+Professional data engineering project showcasing YouTube trend analysis with AWS cloud architecture, featuring real-time analytics dashboard, data pipeline flow diagram, and key performance metrics display.
+
+Image Specifications:
+- Dimensions: 1200x800 pixels (3:2 aspect ratio)
+- Format: PNG with transparent background capability
+- Style: Clean, modern, professional technical illustration
+- Text: Minimal, focus on visual data representation
+
+Usage: Portfolio project showcase demonstrating cloud-based data engineering expertise and real-time analytics capabilities.

@@ -1,0 +1,31 @@
+PLACEHOLDER: Databricks Developer Certification Badge
+==================================================
+
+Certification: Databricks Certified Developer
+Provider: Databricks
+Badge Platform: Accredible (credentials.databricks.com)
+
+Badge Access:
+- Official badges available through credentials.databricks.com
+- Requires Accredible account authentication
+- Badge delivery within 48 hours of certification completion
+- Download available as PNG with numeric filename
+
+Badge Features:
+- Professional Databricks branding (orange/blue)
+- Digital credential verification
+- Sharable on professional platforms
+- Official verification through Accredible
+
+Action Required for Portfolio:
+- Badge holder must login to credentials.databricks.com
+- Sign in with Accredible account credentials
+- Download official badge PNG
+- Or use generic Databricks certification representation
+
+Alternative Options:
+- Create text-based badge: "Databricks Certified Developer"
+- Use Databricks logo with certification text
+- Generic data platform certification icon
+
+Support: Submit ticket to Databricks if badge not received within 48 hours

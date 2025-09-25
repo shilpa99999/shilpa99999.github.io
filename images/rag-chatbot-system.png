@@ -1,0 +1,67 @@
+PLACEHOLDER: RAG-Powered Intelligent Chatbot Project Image
+=======================================================
+
+Project: RAG-Powered Intelligent Chatbot (2024)
+Category: GenAI | Large Language Models | Retrieval-Augmented Generation
+Performance: 40% Manual Reduction, 70% GPU Memory Saved
+
+Visual Design Requirements:
+---------------------------
+1. Primary Elements:
+   - Chatbot interface mockup with conversation bubbles
+   - RAG architecture diagram showing retrieval + generation flow
+   - Vector database visualization (embeddings, similarity search)
+   - Document processing pipeline (PDF → embeddings → retrieval)
+   - LLM integration with fine-tuning indicators
+
+2. Color Scheme:
+   - OpenAI green (#10B981) for GPT-4 integration
+   - Pinecone purple (#7C3AED) for vector database
+   - BERT blue (#3B82F6) for transformer models
+   - LangChain orange (#F59E0B) for orchestration
+   - Professional gradients with modern UI aesthetics
+
+3. Layout Composition:
+   - Top: Chat interface with sample policy Q&A
+   - Left: Document ingestion and processing flow
+   - Center: RAG architecture with retrieval mechanism
+   - Right: Vector database with similarity visualization
+   - Bottom: Performance metrics and model fine-tuning stats
+
+4. Key Metrics Display:
+   - "40% Reduction in Manual Processing"
+   - "70% GPU Memory Optimization"
+   - "Advanced RAG + BERT Integration"
+   - "Enterprise-Grade Policy Analysis"
+
+5. Technical Architecture:
+   - Document chunking and embedding generation
+   - Vector similarity search visualization
+   - Context retrieval and augmentation flow
+   - LLM prompt engineering and response generation
+   - Feedback loop for continuous improvement
+
+6. AI/ML Components:
+   - Hugging Face transformer models
+   - FAISS/Pinecone vector indexing
+   - QLoRA fine-tuning pipeline
+   - RLHF feedback mechanisms
+   - FastAPI service endpoints
+
+7. Use Case Visualization:
+   - Policy document upload interface
+   - Semantic search capabilities
+   - Contextual answer generation
+   - Aspect-based summary extraction
+
+Alternative Text Description:
+Advanced GenAI project showcasing RAG-powered chatbot system with vector databases, featuring document analysis workflow, LLM integration, and intelligent policy processing capabilities.
+
+Image Specifications:
+- Dimensions: 1200x800 pixels (3:2 aspect ratio)
+- Format: PNG with transparent background capability
+- Style: Modern AI/ML interface with conversational elements
+- Elements: Chat UI, architecture diagrams, vector visualizations
+- Text: Minimal, AI-focused terminology and metrics
+
+Usage: Portfolio project demonstrating cutting-edge GenAI expertise, RAG system architecture, and enterprise chatbot deployment capabilities.

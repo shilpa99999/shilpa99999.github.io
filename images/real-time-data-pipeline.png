@@ -1,0 +1,68 @@
+PLACEHOLDER: Real-time Banking Data Pipeline Project Image
+========================================================
+
+Project: Real-time Banking Data Pipeline (2022)
+Category: Data Engineering | Big Data Processing | Financial Technology
+Performance: 10TB+ Daily Processing, 35% Query Optimization
+
+Visual Design Requirements:
+---------------------------
+1. Primary Elements:
+   - Real-time data flow diagram with streaming indicators
+   - Banking transaction visualization (secure, encrypted data)
+   - ETL pipeline architecture with multiple stages
+   - Big data processing cluster (Spark/Hadoop ecosystem)
+   - Performance monitoring dashboard with metrics
+
+2. Color Scheme:
+   - Financial blue (#1E3A8A) for banking/financial elements
+   - Apache orange (#D97706) for Kafka/streaming components
+   - Google Cloud blue (#4285F4) for GCP Pub/Sub
+   - Green indicators for optimized performance metrics
+   - Dark professional background with data flow highlights
+
+3. Layout Composition:
+   - Top: Real-time data ingestion sources (transactions, APIs)
+   - Center: Processing pipeline with Spark/PySpark clusters
+   - Left: Storage systems (HDFS, distributed databases)
+   - Right: Analytics and reporting dashboards
+   - Bottom: Airflow orchestration workflow
+
+4. Key Metrics Display:
+   - "10TB+ Daily Data Processing"
+   - "35% Query Performance Improvement"
+   - "100K-2M Records Processed"
+   - "Real-time Streaming Architecture"
+
+5. Technical Architecture:
+   - Apache Kafka message queues with topics
+   - Google Cloud Pub/Sub streaming integration
+   - PySpark distributed computing clusters
+   - HDFS distributed file system visualization
+   - SQL optimization indicators and indexing
+   - Apache Airflow DAG workflow diagrams
+
+6. Data Flow Components:
+   - Real-time transaction ingestion
+   - Stream processing and transformation
+   - Statistical modeling and analysis
+   - Data quality checks and validation
+   - Automated alerting and monitoring
+
+7. Banking Security Elements:
+   - Encrypted data transmission indicators
+   - Compliance and regulatory markers
+   - Data governance and audit trails
+   - Risk management integration
+
+Alternative Text Description:
+Enterprise-scale data engineering project showcasing real-time banking pipeline with big data processing, featuring streaming architecture, ETL workflows, and performance optimization metrics.
+
+Image Specifications:
+- Dimensions: 1200x800 pixels (3:2 aspect ratio)
+- Format: PNG with transparent background capability
+- Style: Professional enterprise architecture diagram
+- Elements: Data flow arrows, processing clusters, dashboard mockups
+- Text: Technical terminology, performance metrics
+
+Usage: Portfolio project demonstrating big data engineering expertise, real-time processing capabilities, and enterprise banking system integration.

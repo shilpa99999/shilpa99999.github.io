@@ -1,29 +1,29 @@
 {
   "profile": {
-    "name": "Venkata Sai Satish Somesula",
-    "title": "Mechanical Design & Reliability Engineer",
-    "organization": "Harbinger Motors | 5+ Years Experience | Dallas, TX",
+    "name": "Anusha Yaramala",
+    "title": "Certified GenAI Specialist & Data Scientist",
+    "organization": "4+ Years Experience | Texas, USA",
     "profileImage": "assets/PIC.jpg",
-    "cvPath": "assets/Satish_ME_Resume.pdf",
+    "cvPath": "assets/Anusha_DS_Resume.pdf",
     "metrics": [
-      "5+ Years Experience",
-      "$28M Lifecycle Savings",
-      "15% Rework Cycle Reduction",
-      "20% Change Turnaround Improvement"
+      "4+ Years Experience",
+      "40% Manual Calls Reduction",
+      "70% GPU Memory Reduction",
+      "91.68% F1 Score Achievement"
     ]
   },
   
   "bio": {
-    "introduction": "<span class=\"highlight\">Results-driven Mechanical Design & Reliability Engineer</span> with <span class=\"highlight\">5+ years of experience</span> in automotive, rail, and energy sectors. Expertise in <span class=\"highlight\">CAD/CAE (NX, Pro-E, Ansys, AutoCAD)</span>, product definition, and reliability validation. Proven record in <span class=\"highlight\">DFMEA, failure analysis, and cost-saving design optimization</span>, delivering multi-million-dollar savings while ensuring compliance to <span class=\"highlight\">ASME GD&T and OCP guidelines</span>.",
-    "background": "Adept at cross-functional collaboration, accelerating design cycles, and enhancing product robustness through advanced engineering practices. Expert in <span class=\"highlight\">CAD modeling, finite element analysis, and thermal simulation</span> using industry-standard tools like <span class=\"highlight\">Siemens NX, Pro/ENGINEER, and ANSYS</span>. Extensive experience in <span class=\"highlight\">PLM systems (Teamcenter, Windchill)</span> for comprehensive product lifecycle management.",
-    "researchFocus": "Specialized in <span class=\"highlight\">reliability engineering for battery cooling systems</span>, <span class=\"highlight\">accelerated life-stress modeling</span>, and validation protocols for immersion cooling systems. Demonstrated success in <span class=\"highlight\">projecting $28M in lifecycle savings</span>, <span class=\"highlight\">reducing rework cycles by 15%</span>, and <span class=\"highlight\">cutting engineering change turnaround time by 20%</span> through systematic DFMEA implementation and cross-functional engineering collaboration."
+    "introduction": "<span class=\"highlight\">Certified GenAI Specialist and highly skilled Data Scientist</span> with <span class=\"highlight\">4+ years of extensive experience</span> in designing and deploying MLOps pipelines and data processing using BigData and Python. Expertise in <span class=\"highlight\">leveraging LLMs, AWS, Azure and GCP services</span> for enterprise-scale solutions. Proven track record in <span class=\"highlight\">multi-model RAGs, neural networks, and cloud architecture</span>, delivering measurable business impact through advanced AI and data science implementations.",
+    "background": "Proficient in <span class=\"highlight\">Programming Languages: Python, R, C++, Java, Linux</span> with deep expertise in GenAI technologies including <span class=\"highlight\">GPT-4, Claude, Co-pilot, FastAPI, MCP, Semantic search, Vertex AI</span>. Advanced experience with <span class=\"highlight\">Cloud Tech Stack: AWS (Glue, RDS, S3, Athena, EC2, Redshift, Lambda), Azure DevOps, GCP, BigQuery, Airflow</span> and comprehensive knowledge of <span class=\"highlight\">Big Data Ecosystem: PySpark, Snowflake, Kafka, Flink, Hadoop, Delta Lake</span>.",
+    "researchFocus": "Specialized in <span class=\"highlight\">RAG and BERT models with LLMs</span> to enhance contextual understanding and extract aspect-based summaries from policy documents. Expert in <span class=\"highlight\">Agentic systems, vector databases (Pinecone, FAISS)</span>, and fine-tuning Llama using RLHF and QLoRA for memory-efficient training. Demonstrated success in <span class=\"highlight\">reducing manual calls by 40%</span>, <span class=\"highlight\">achieving 70% GPU memory reduction</span>, and <span class=\"highlight\">delivering 91.68% F1 score</span> through advanced neural network architectures and cloud-optimized ML implementations."
   },
   
   "contact": {
-    "email": "saisathish7075@gmail.com",
-    "phone": "+1 (469) 739-2313",
-    "location": "Dallas, TX",
-    "linkedin": "https://www.linkedin.com/in/sathishsomesula/",
+    "email": "anushayaramala31@gmail.com",
+    "phone": "+1 (940) 977-1496",
+    "location": "Texas, USA",
+    "linkedin": null,
     "github": null,
     "googleScholar": null,
     "twitter": null,
@@ -37,17 +37,17 @@
     {"label": "Projects", "href": "#projects"},
     {"label": "Skills", "href": "#skills"},
     {"label": "Education", "href": "#education"},
-    {"label": "Contact", "href": "mailto:saisathish7075@gmail.com"}
+    {"label": "Contact", "href": "mailto:anushayaramala31@gmail.com"}
   ],
   
   "publications": [
     {
-      "id": "harbinger-motors",
-      "title": "Reliability Engineer (Hardware)",
-      "authors": "Harbinger Motors Inc | USA",
-      "venue": "Aug 2024 – May 2025",
-      "description": "<div class='impact-metrics'><span class='metric'>$28M Lifecycle Savings</span><span class='metric'>$5M Annual Savings</span><span class='metric'>Battery Cooling Systems</span><span class='metric'>OCP Standards Compliance</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Orchestrated DFMEA for battery cooling tube coatings</strong>, producing a comprehensive validation plan that <span class='highlight'>projected $28M in lifecycle savings</span> through systematic failure mode analysis and risk mitigation strategies<br/>• <strong>Devised accelerated life-stress models</strong>, precisely calculating test duration and sample size requirements to <span class='highlight'>validate reliability under real-world operating conditions</span> for electric vehicle applications<br/>• <strong>Investigated busbar insulation failure modes</strong> through extensive material validation studies (DSC, DMA, TMA, TGA, EDS), <span class='highlight'>ensuring durability and performance in Mini-truck applications</span> under extreme operating conditions<br/>• <strong>Validated conformal coating materials</strong> via High Temperature High Humidity Endurance (HTHE), thermal shock, and coolant dunk tests, <span class='highlight'>securing $5M annual savings</span> through improved material selection and application processes<br/>• <strong>Directed field failure analysis programs</strong>, systematically isolating root causes, implementing corrective actions, and <span class='highlight'>extending product uptime across fleet operations</span><br/>• <strong>Partnered with semiconductor teams</strong> to evaluate power modules under liquid-cooled conditions, <span class='highlight'>improving module resilience and thermal performance</span> in high-power automotive applications<br/>• <strong>Formulated reliability protocols</strong> for immersion cooling systems, introducing in-situ corrosion monitoring and High Temperature Operating Life (HTOL) validation methodologies<br/>• <strong>Conducted thermomechanical characterization</strong> of substrate and die attach materials per OCP standards, <span class='highlight'>enhancing design robustness and compliance</span> with industry reliability requirements<br/>• <strong>Developed predictive reliability dashboards</strong> integrating test data with statistical models, <span class='highlight'>enabling proactive failure prevention</span> through advanced data analytics and predictive maintenance strategies",
-      "image": "images/harbinger-motors-logo.png",
+      "id": "bright-house-financial",
+      "title": "GenAI Specialist",
+      "authors": "Bright house financial | USA",
+      "venue": "Sept 2024 – Present",
+      "description": "<div class='impact-metrics'><span class='metric'>40% Manual Calls Reduction</span><span class='metric'>70% GPU Memory Reduction</span><span class='metric'>RAG & BERT Models</span><span class='metric'>Agentic Systems</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed RAG and BERT models with LLMs</strong> to enhance contextual understanding and extract required aspect-based summaries from client policy documents using TensorFlow, Hugging Face transformers, and OpenAI, <span class='highlight'>reducing manual calls by 40%</span><br/>• <strong>Implemented Agentic systems with vector databases</strong> like Pinecone and FAISS, fine-tuned Llama using RLHF and QLoRA for memory-efficient training, integrated with LangChain for dynamic prompt orchestration, <span class='highlight'>achieving 70% reduction in GPU memory usage and 30% reduction in training time</span><br/>• <strong>Optimized NLP libraries</strong> such as NLTK, spaCy, and scikit-learn for text analysis, chunking and sentiment analysis, <span class='highlight'>utilizing feedback mechanisms to train ML models</span> for more personalized user experiences<br/>• <strong>Built intelligent chatbot systems</strong> using OpenAI GPT-4 and Claude models, implementing semantic search and contextual understanding to <span class='highlight'>automate customer support workflows</span> and reduce response times<br/>• <strong>Presented complex data findings</strong> and insights from A/B tests and predictive analyses to clients, senior management, and stakeholders, <span class='highlight'>driving data-driven decision making</span> across business units<br/>• <strong>Deployed production-ready GenAI solutions</strong> using FastAPI and MCP protocols, ensuring scalable and reliable AI model serving in cloud environments<br/>• <strong>Implemented advanced prompt engineering</strong> techniques and fine-tuning strategies for domain-specific applications, <span class='highlight'>improving model accuracy and relevance</span> for financial services use cases",
+      "image": "images/bright-house-financial-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -55,12 +55,12 @@
       }
     },
     {
-      "id": "quest-global-wabtec",
-      "title": "Senior Design Engineer",
-      "authors": "Quest Global Engineering Services (for Wabtec Corporation) | India",
-      "venue": "Aug 2021 – Mar 2023",
-      "description": "<div class='impact-metrics'><span class='metric'>15% Rework Reduction</span><span class='metric'>20% Faster Turnaround</span><span class='metric'>ASME Y14.5 Compliance</span><span class='metric'>Multiple Locomotive Platforms</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Delivered Product Definition Engineering (PDE) support</strong> for locomotive systems, <span class='highlight'>accelerating new product launches</span> through comprehensive design documentation and cross-functional collaboration<br/>• <strong>Modeled and optimized sheet metal, piping, tubing, and wire harness systems</strong> in NX and Pro-E, <span class='highlight'>reducing rework cycles by 15%</span> through improved design validation and clash detection processes<br/>• <strong>Administered ECRs and ECNs in Teamcenter PLM</strong>, streamlining change management processes and <span class='highlight'>cutting engineering change turnaround time by 20%</span> across multiple development programs<br/>• <strong>Drafted manufacturable designs</strong> aligned with ASME Y14.5 GD&T and welding codes, <span class='highlight'>ensuring compliance and reducing shop floor issues</span> through precise dimensional control and specification clarity<br/>• <strong>Facilitated coordination</strong> with cross-functional engineering and manufacturing teams, <span class='highlight'>driving smooth design-to-production handoff</span> and minimizing late-stage design modifications<br/>• <strong>Expanded locomotive domain expertise</strong>, supporting continuous design enhancements across multiple platforms including freight and passenger rail systems<br/>• <strong>Synthesized supplier feedback</strong> into revised component specifications, <span class='highlight'>reducing recurring design deviations</span> and improving supplier manufacturing efficiency<br/>• <strong>Implemented design validation protocols</strong> ensuring compliance with railway industry standards and regulatory requirements for safety-critical locomotive components",
-      "image": "images/quest-global-logo.png",
+      "id": "texas-instruments",
+      "title": "Neural Network Engineer",
+      "authors": "Texas Instruments | USA",
+      "venue": "Feb 2023 – Jul 2024",
+      "description": "<div class='impact-metrics'><span class='metric'>91.68% F1 Score</span><span class='metric'>35% Complexity Reduction</span><span class='metric'>Azure Databricks</span><span class='metric'>70% Text Analysis Efficiency</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed and optimized neural network architectures</strong> using SciKit Learn, Pandas, Keras, PyTorch, NumPy, and Matplotlib within Azure Databricks environment, <span class='highlight'>achieving a 91.68% F1 score and reducing computational complexity by 35%</span><br/>• <strong>Implemented advanced NLP algorithms</strong> including Named Entity Recognition (NER) and Sentiment Analysis using VADER, <span class='highlight'>improving text analysis efficiency by 70%</span> and facilitating insight extraction from social media data<br/>• <strong>Designed and deployed scalable deep learning models</strong> into production using APIs and ML pipelines, <span class='highlight'>improving deployment efficiency by 30%</span> and ensuring robust model serving capabilities<br/>• <strong>Applied advanced topic modeling techniques</strong> using Latent Dirichlet Allocation (LDA) to uncover key themes and trends from textual data, implementing stemming and tokenization preprocessing techniques, <span class='highlight'>producing interactive visualizations with Plotly</span><br/>• <strong>Leveraged Azure DevOps and Git</strong> for version control and CI/CD best practices, while utilizing AWS SageMaker to automate workflows and manage infrastructure, <span class='highlight'>accelerating model scalability, training and deployment by 20%</span><br/>• <strong>Conducted comprehensive model evaluation</strong> using cross-validation techniques, hyperparameter tuning, and performance optimization strategies to ensure production-ready neural network solutions<br/>• <strong>Collaborated with semiconductor engineering teams</strong> to integrate ML models with hardware optimization processes, <span class='highlight'>enhancing overall system performance</span> and reliability",
+      "image": "images/texas-instruments-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -68,12 +68,25 @@
       }
     },
     {
-      "id": "icroz-solutions",
-      "title": "Junior Product Designer",
-      "authors": "ICROZ Solutions Pvt Ltd | India",
-      "venue": "Aug 2019 – Jul 2021",
-      "description": "<div class='impact-metrics'><span class='metric'>10% Cost Reduction</span><span class='metric'>8% Material Cost Savings</span><span class='metric'>Automotive Systems</span><span class='metric'>CAD Modeling Excellence</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Designed optimized routings</strong> for fuel feed pumps, radiator fans, tail lamps, and starter motors, <span class='highlight'>minimizing clash risks with vehicle body</span> through systematic 3D modeling and interference analysis<br/>• <strong>Reduced wiring harness cost by 10%</strong> by eliminating excess lengths and standardizing routing paths, <span class='highlight'>improving cost efficiency while maintaining performance standards</span> across multiple automotive platforms<br/>• <strong>Converted STEP files</strong> into client-specific CAD models, <span class='highlight'>accelerating design delivery and reducing revision cycles</span> through efficient data translation and model optimization processes<br/>• <strong>Inspected fitment</strong> of floor panels, clutch housing, and fender assemblies, <span class='highlight'>ensuring seamless integration of sub-assemblies</span> through comprehensive dimensional verification and assembly analysis<br/>• <strong>Compiled QC inspection reports</strong>, FEA analyses, and client presentations, <span class='highlight'>expediting design approval processes</span> and maintaining clear communication with stakeholders throughout development cycles<br/>• <strong>Introduced lightweight design iterations</strong> for plastic components, <span class='highlight'>improving manufacturability and cutting material cost by 8%</span> through strategic design for manufacturing (DFM) principles<br/>• <strong>Collaborated with manufacturing teams</strong> to optimize component designs for production efficiency, reducing tooling complexity and assembly time requirements<br/>• <strong>Maintained design documentation</strong> and revision control systems, ensuring traceability and compliance with automotive industry quality standards",
-      "image": "images/icroz-solutions-logo-optimized.png",
+      "id": "deutsche-bank",
+      "title": "Data Engineer",
+      "authors": "Deutsche Bank | India",
+      "venue": "May 2021 – Jul 2022",
+      "description": "<div class='impact-metrics'><span class='metric'>35% Query Performance</span><span class='metric'>40% Data Transformation</span><span class='metric'>10 TB+ Real-time Processing</span><span class='metric'>25% Operational Efficiency</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed and optimized complex SQL queries and DDL scripts</strong>, <span class='highlight'>improving query performance by 35%</span> through advanced index optimization and executed queries for complex datasets exceeding 1 million rows<br/>• <strong>Optimized distributed data processing workflows</strong> using Python, PySpark, and Spark SQL, <span class='highlight'>reducing data transformation time by 40%</span> and enhancing predictive analytics and system efficiency by 20%<br/>• <strong>Implemented real-time data streaming solutions</strong> with Google Cloud Pub/Sub and Apache Kafka, enabling <span class='highlight'>low-latency processing of 10 TB+ of data</span> for critical banking operations<br/>• <strong>Leveraged Hadoop Distributed File System (HDFS)</strong> and Spark SQL for efficient distributed storage and querying, <span class='highlight'>ensuring scalable data architecture</span> for enterprise-level financial data processing<br/>• <strong>Managed comprehensive ETL pipelines</strong> handling 100K to 2M records with diverse schemas, <span class='highlight'>achieving data cleaning and transformation in 2 to 10 minutes</span> while maintaining data integrity and quality<br/>• <strong>Applied advanced statistical modeling techniques</strong> including ROC analysis, confusion matrices, chi-square tests, and PCA for model evaluation and optimization, <span class='highlight'>enhancing predictive model accuracy</span><br/>• <strong>Optimized Airflow orchestration workflows</strong> to automate 100+ data workflows in GCP environment, <span class='highlight'>enhancing operational efficiency by 25%</span> and reducing manual intervention requirements<br/>• <strong>Ensured data governance and compliance</strong> with banking regulations while implementing robust data quality monitoring and validation processes",
+      "image": "images/deutsche-bank-logo.png",
+      "links": {
+        "paper": null,
+        "github": null,
+        "status": null
+      }
+    },
+    {
+      "id": "vodafone",
+      "title": "Data Insights Analyst",
+      "authors": "Vodafone | India",
+      "venue": "Sept 2020 – May 2021",
+      "description": "<div class='impact-metrics'><span class='metric'>40% Query Performance</span><span class='metric'>Real-time Dashboards</span><span class='metric'>Cross-functional Collaboration</span><span class='metric'>Data-driven Decisions</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Improved query execution time by 40%</strong> by implementing stored procedures in SQL instead of multiple joins, <span class='highlight'>optimizing database performance</span> while managing procedures and solving problems in both development and production environments<br/>• <strong>Collaborated with cross-functional teams</strong> to develop comprehensive data-driven dashboards, <span class='highlight'>enabling real-time performance tracking and decision-making</span> across business units<br/>• <strong>Analyzed telecommunications data patterns</strong> to identify customer usage trends, network optimization opportunities, and revenue enhancement strategies, <span class='highlight'>supporting strategic business decisions</span><br/>• <strong>Implemented data quality monitoring systems</strong> to ensure accuracy and consistency of analytical reports, <span class='highlight'>reducing data discrepancies and improving stakeholder confidence</span> in analytics deliverables<br/>• <strong>Created automated reporting solutions</strong> using SQL and data visualization tools, <span class='highlight'>streamlining routine analytical processes</span> and freeing up time for strategic analysis<br/>• <strong>Conducted statistical analysis</strong> on customer behavior and network performance metrics, <span class='highlight'>providing actionable insights</span> to improve service quality and customer satisfaction<br/>• <strong>Managed database installations and configurations</strong> while troubleshooting complex data integration issues in both development and production environments<br/>• <strong>Developed KPI frameworks and metrics</strong> for business performance measurement, <span class='highlight'>establishing data-driven culture</span> within the organization",
+      "image": "images/vodafone-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -83,108 +96,145 @@
   ],
   
   "skills": {
-    "designCADSoftware": [
-      "AutoCAD (Computer-Aided Design)",
-      "SolidWorks (3D CAD Modeling Software)",
-      "Pro/ENGINEER (Pro-E, now Creo Parametric)",
-      "Siemens NX (UG NX – Unigraphics NX)",
-      "Windchill (Product Lifecycle Management Software)",
-      "Teamcenter PLM (Product Lifecycle Management)"
+    "programmingLanguages": [
+      "Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, OpenCV, MLFlow)",
+      "R (Statistical Computing and Data Analysis)",
+      "C++ (Systems Programming and Performance Optimization)",
+      "Java (Enterprise Applications and Backend Development)",
+      "Linux (System Administration and Shell Scripting)",
+      "SQL (Database Querying and Data Manipulation)",
+      "JavaScript (Web Development and API Integration)"
     ],
-    "reliabilityQualityEngineering": [
-      "DFMEA (Design Failure Mode and Effects Analysis)",
-      "DFM/DFA (Design for Manufacturability / Design for Assembly)",
-      "GD&T (Geometric Dimensioning and Tolerancing – ASME Y14.5 Standard)",
-      "HTHE (High Temperature High Humidity Endurance Testing)",
-      "HTOL (High Temperature Operating Life Testing – Semiconductor Reliability)",
-      "Field Failure Analysis (FFA – Real-World Failure Investigation)",
-      "Risk Mitigation Strategies",
-      "Root Cause Analysis"
+    "genaiStack": [
+      "Multi-model RAG Systems (Retrieval-Augmented Generation)",
+      "GPT-4 (OpenAI Large Language Model)",
+      "Claude (Anthropic AI Assistant and Language Model)",
+      "GitHub Copilot (AI-Powered Code Assistance)",
+      "FastAPI (Modern Web Framework for APIs)",
+      "MCP (Model Context Protocol)",
+      "Semantic Search (Vector-based Information Retrieval)",
+      "Vertex AI (Google Cloud AI Platform)",
+      "Azure AI Factory (Microsoft AI Services)",
+      "LangChain (Framework for LLM Applications)",
+      "Hugging Face Transformers (Pre-trained Models)",
+      "RLHF (Reinforcement Learning from Human Feedback)",
+      "QLoRA (Quantized Low-Rank Adaptation)"
     ],
-    "simulationAnalysis": [
-      "ANSYS (Finite Element Analysis)",
-      "Abaqus (FEA Simulation)",
-      "ANSYS Icepak (Thermal Modeling)",
-      "Finite Element Analysis (FEA)",
-      "Computational Fluid Dynamics (CFD)",
-      "Thermal Analysis",
-      "Structural Analysis"
+    "cloudTechStack": [
+      "AWS (Glue, RDS, S3, Athena, EC2, Redshift, Lambda, SageMaker)",
+      "Azure (Databricks, DevOps, Machine Learning, Cognitive Services)",
+      "Google Cloud Platform (BigQuery, Pub/Sub, AI Platform, Vertex AI)",
+      "Databricks (Unified Analytics Platform)",
+      "Apache Airflow (Workflow Orchestration)",
+      "Docker (Containerization and Deployment)",
+      "Kubernetes (Container Orchestration)"
     ],
-    "collaborationProcessTools": [
-      "Confluence (Team Collaboration & Knowledge Management Tool)",
-      "Polarion (Application Lifecycle Management Platform)",
-      "QC (Quality Control Documentation & Client Presentations)",
-      "ECR (Engineering Change Request) & ECN (Engineering Change Notice)",
-      "Stage-Gate PDP (Product Development Process – Structured New Product Introduction Framework)"
+    "bigDataEcosystem": [
+      "PySpark (Large-scale Data Processing)",
+      "Apache Spark (Distributed Computing Framework)",
+      "Snowflake (Cloud Data Warehouse)",
+      "Apache Kafka (Real-time Data Streaming)",
+      "Apache Flink (Stream Processing)",
+      "Hadoop (Distributed Storage and Processing)",
+      "HDFS (Hadoop Distributed File System)",
+      "Delta Lake (Data Lake Storage Layer)",
+      "Delta Tables (ACID Transactions for Big Data)",
+      "Data Governance (Policies and Procedures)",
+      "Data Modeling (Dimensional and Relational Design)",
+      "Metadata Management (Data Catalog and Lineage)"
     ],
-    "engineeringStandards": [
-      "ASME Y14.5 (Geometric Dimensioning and Tolerancing)",
-      "ASME Standards Compliance",
-      "OCP Guidelines (Open Compute Project)",
-      "Welding Codes and Standards",
-      "ISO 27001 Compliance",
-      "Automotive Industry Standards"
+    "databasesStorage": [
+      "OLAP (Online Analytical Processing)",
+      "OLTP (Online Transaction Processing)",
+      "DBMS (Database Management Systems)",
+      "PostgreSQL (Advanced Open Source Database)",
+      "MySQL (Relational Database Management)",
+      "NoSQL (Non-relational Database Systems)",
+      "SQL Server (Microsoft Database Platform)",
+      "MongoDB (Document-based NoSQL Database)",
+      "Vector Databases (Pinecone, FAISS, Chroma)",
+      "Redis (In-memory Data Structure Store)"
     ],
-    "materialsValidation": [
-      "DSC (Differential Scanning Calorimetry)",
-      "DMA (Dynamic Mechanical Analysis)",
-      "TMA (Thermomechanical Analysis)",
-      "TGA (Thermogravimetric Analysis)",
-      "EDS (Energy Dispersive Spectroscopy)",
-      "Material Testing Protocols"
+    "machineLearningAlgorithms": [
+      "Artificial Neural Networks (ANN)",
+      "Convolutional Neural Networks (CNN)",
+      "Recurrent Neural Networks (RNN)",
+      "Long Short-Term Memory (LSTM)",
+      "Transformer Architecture",
+      "Linear Regression (Statistical Modeling)",
+      "Logistic Regression (Classification)",
+      "Decision Trees (Rule-based Learning)",
+      "Random Forest (Ensemble Method)",
+      "Support Vector Machines (SVM)",
+      "Naive Bayes (Probabilistic Classifier)",
+      "K-Means Clustering (Unsupervised Learning)",
+      "Principal Component Analysis (PCA)",
+      "Natural Language Processing (NLP)",
+      "Computer Vision (Image Processing)"
+    ],
+    "dataScienceTools": [
+      "Jupyter Notebooks (Interactive Development)",
+      "scikit-learn (Machine Learning Library)",
+      "TensorFlow (Deep Learning Framework)",
+      "PyTorch (Neural Network Framework)",
+      "Keras (High-level Neural Networks API)",
+      "NLTK (Natural Language Toolkit)",
+      "spaCy (Advanced NLP Library)",
+      "Plotly (Interactive Visualizations)",
+      "Tableau (Business Intelligence)",
+      "Power BI (Microsoft Analytics Platform)",
+      "Git (Version Control System)",
+      "MLOps (Machine Learning Operations)"
     ],
     "industryDomains": [
-      "Automotive Systems Design",
-      "Rail/Locomotive Engineering",
-      "Energy Sector Applications",
-      "Battery Cooling Systems",
-      "Electric Vehicle Components",
-      "Power Electronics"
-    ],
-    "projectManagement": [
-      "Cross-functional Team Leadership",
-      "Supplier Collaboration",
-      "Design Review Processes",
-      "Project Planning and Execution",
-      "Risk Assessment and Mitigation",
-      "Cost Optimization Strategies"
+      "Financial Services and Banking",
+      "GenAI and Large Language Models",
+      "Telecommunications and Network Analytics",
+      "Healthcare and Life Sciences",
+      "Data Engineering and ETL Pipelines",
+      "Real-time Analytics and Streaming",
+      "Cloud Computing and Infrastructure",
+      "Business Intelligence and Reporting"
     ],
     "softSkills": [
-      "Problem Solving",
-      "Attention to Detail",
-      "Technical Documentation",
-      "Cross-functional Collaboration",
-      "Design Optimization",
-      "Failure Investigation"
+      "Problem Solving and Critical Thinking",
+      "Technical Documentation and Communication",
+      "Cross-functional Team Collaboration",
+      "Project Management and Planning",
+      "Data Storytelling and Visualization",
+      "Statistical Analysis and Interpretation",
+      "Model Evaluation and Validation",
+      "Stakeholder Presentation and Reporting"
     ]
   },
   
   "projects": [
     {
-      "id": "retaining-ring-analysis",
-      "title": "Retaining Ring Analysis",
+      "id": "youtube-trend-analysis",
+      "title": "YouTube Trend Analysis Platform",
       "year": "2024",
-      "category": "engineering",
-      "shortDescription": "Comprehensive finite element analysis of retaining rings under displacement boundary conditions with material optimization recommendations.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>FEA Analysis</span><span class='metric'>Yielding Risk Assessment</span><span class='metric'>Material Optimization</span><span class='metric'>Design Enhancement</span></div><br/>Advanced structural analysis project utilizing Abaqus finite element software to evaluate retaining ring performance under various loading conditions. Conducted comprehensive stress analysis using displacement boundary conditions to simulate real-world operating scenarios. Identified critical yielding risks through detailed von Mises stress distribution analysis and displacement field evaluation. Developed material selection criteria and design modification recommendations to enhance component durability and safety margins. Applied geometric dimensioning and tolerancing (GD&T) principles to ensure manufacturable designs with optimal performance characteristics. Results provided actionable engineering insights for improved component reliability and cost-effective material utilization.",
+      "category": "data-engineering",
+      "shortDescription": "Scalable AWS data pipeline analyzing YouTube video trends, processing 1M+ records daily with real-time insights and visualization.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>1M+ Daily Records</span><span class='metric'>80% Accuracy</span><span class='metric'>AWS Cloud Architecture</span><span class='metric'>Real-time Processing</span></div><br/>Developed a comprehensive, scalable data pipeline on AWS to analyze YouTube video trends and patterns, processing over 1 million records daily. Implemented end-to-end data architecture using S3 for storage, IAM for security, Lambda for serverless processing, Glue for ETL operations, and Athena for analytical queries. Built real-time data ingestion system that captures video metadata, engagement metrics, and trending patterns across multiple geographic regions. Created interactive dashboards using QuickSight for data visualization, enabling stakeholders to identify content trends, optimal publishing times, and audience engagement patterns. Applied advanced analytics and machine learning techniques to predict video performance and recommend content optimization strategies. Achieved 80% accuracy in trend prediction models while maintaining cost-effective cloud infrastructure. Implemented automated data quality checks and monitoring systems to ensure pipeline reliability and data integrity.",
       "media": {
         "type": "image",
-        "src": "images/retaining-ring-analysis.png",
+        "src": "images/youtube-trend-analysis.png",
         "poster": null
       },
       "techStack": [
-        "Abaqus",
-        "Finite Element Analysis (FEA)",
-        "GD&T (Geometric Dimensioning & Tolerancing)",
-        "Structural Analysis",
-        "Material Science",
-        "CAD Modeling",
-        "Stress Analysis"
+        "AWS (S3, Lambda, Glue, Athena, QuickSight)",
+        "Python (Pandas, NumPy)",
+        "Apache Spark",
+        "SQL",
+        "Data Visualization",
+        "ETL Pipelines",
+        "Machine Learning",
+        "Real-time Analytics"
       ],
       "metrics": [
-        {"value": "Advanced", "label": "FEA Modeling"},
-        {"value": "Material", "label": "Optimization"},
-        {"value": "Enhanced", "label": "Durability"}
+        {"value": "1M+", "label": "Daily Records"},
+        {"value": "80%", "label": "Prediction Accuracy"},
+        {"value": "AWS", "label": "Cloud Platform"}
       ],
       "links": {
         "website": null,
@@ -194,30 +244,32 @@
       "isExpandable": true
     },
     {
-      "id": "overhead-crane-redesign",
-      "title": "Overhead Crane Redesign",
+      "id": "neural-network-optimization",
+      "title": "Neural Network Architecture Optimization",
       "year": "2023",
-      "category": "engineering",
-      "shortDescription": "Complete re-engineering of overhead crane hanging end truck applying DFM/DFA principles with 10% manufacturing cost reduction.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>10% Cost Reduction</span><span class='metric'>DFM/DFA Application</span><span class='metric'>Load-Bearing Performance</span><span class='metric'>Manufacturing Optimization</span></div><br/>Comprehensive redesign project focusing on overhead crane hanging end truck optimization through systematic application of Design for Manufacturability (DFM) and Design for Assembly (DFA) principles. Conducted detailed analysis of existing design limitations, material usage inefficiencies, and assembly complexity issues. Implemented cost-effective design modifications while maintaining stringent load-bearing performance requirements and safety standards. Achieved significant 10% reduction in manufacturing costs through optimized material selection, simplified assembly processes, and reduced component complexity. Applied advanced CAD modeling techniques to validate design changes and ensure compatibility with existing crane infrastructure. Project demonstrated successful integration of cost optimization strategies with performance maintenance in heavy industrial equipment applications.",
+      "category": "machine-learning",
+      "shortDescription": "Advanced neural network optimization achieving 91.68% F1 score with 35% computational complexity reduction using Azure Databricks.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>91.68% F1 Score</span><span class='metric'>35% Complexity Reduction</span><span class='metric'>Azure Databricks</span><span class='metric'>Production Ready</span></div><br/>Designed and optimized advanced neural network architectures for multi-class classification tasks using cutting-edge deep learning frameworks. Implemented comprehensive model development pipeline using scikit-learn, Pandas, Keras, PyTorch, and NumPy within Azure Databricks environment. Applied hyperparameter tuning, regularization techniques, and advanced optimization algorithms to achieve exceptional performance metrics. Developed automated model evaluation framework with cross-validation, performance monitoring, and A/B testing capabilities. Integrated the solution with production systems using REST APIs and containerized deployment strategies. Implemented MLOps best practices including version control, automated testing, continuous integration, and model monitoring. Results demonstrated significant improvement in model accuracy while reducing computational requirements, enabling cost-effective deployment at scale. Created comprehensive documentation and knowledge transfer materials for model maintenance and enhancement.",
       "media": {
         "type": "image",
-        "src": "images/overhead-crane-redesign.png",
+        "src": "images/neural-network-optimization.png",
         "poster": null
       },
       "techStack": [
-        "DFM/DFA (Design for Manufacturability/Assembly)",
-        "Cost Optimization",
-        "CAD Modeling",
-        "Structural Design",
-        "Material Selection",
-        "Load Analysis",
-        "Industrial Equipment Design"
+        "PyTorch",
+        "Keras",
+        "scikit-learn",
+        "Azure Databricks",
+        "Python",
+        "MLOps",
+        "Docker",
+        "REST APIs",
+        "Model Optimization"
       ],
       "metrics": [
-        {"value": "10%", "label": "Cost Reduction"},
-        {"value": "Maintained", "label": "Load Performance"},
-        {"value": "Optimized", "label": "Manufacturing"}
+        {"value": "91.68%", "label": "F1 Score"},
+        {"value": "35%", "label": "Complexity Reduction"},
+        {"value": "Production", "label": "Deployment"}
       ],
       "links": {
         "website": null,
@@ -227,30 +279,32 @@
       "isExpandable": true
     },
     {
-      "id": "heat-pipe-simulation",
-      "title": "Heat Pipe Simulation",
+      "id": "rag-chatbot-system",
+      "title": "RAG-Powered Intelligent Chatbot",
       "year": "2024",
-      "category": "engineering",
-      "shortDescription": "Advanced thermal modeling of heat pipe systems using ANSYS Icepak with comprehensive temperature and airflow analysis.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>ANSYS Icepak Simulation</span><span class='metric'>Thermal Modeling</span><span class='metric'>Temperature Contours</span><span class='metric'>Airflow Optimization</span></div><br/>Advanced thermal analysis project utilizing ANSYS Icepak to model heat pipe thermal behavior through sophisticated orthotropic cylindrical block simulation methodology. Developed comprehensive thermal models incorporating realistic material properties, boundary conditions, and heat transfer mechanisms. Generated detailed temperature contour maps and airflow velocity vector fields around fan-heat sink assembly configurations to validate thermal efficiency performance. Conducted parametric studies to optimize heat pipe orientation, working fluid selection, and fin design for maximum thermal performance. Applied computational fluid dynamics (CFD) principles to analyze convective heat transfer patterns and identify potential thermal bottlenecks. Results provided critical design validation for thermal management systems in electronics cooling applications, enabling improved product reliability and performance optimization.",
+      "category": "genai",
+      "shortDescription": "Advanced RAG system with LLMs for policy document analysis, reducing manual processing by 40% using vector databases and fine-tuned models.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>40% Manual Reduction</span><span class='metric'>70% GPU Memory Saved</span><span class='metric'>RAG + BERT Models</span><span class='metric'>Vector Databases</span></div><br/>Developed sophisticated Retrieval-Augmented Generation (RAG) system integrated with BERT models and large language models to enhance contextual understanding of policy documents. Implemented advanced document processing pipeline using TensorFlow, Hugging Face transformers, and OpenAI APIs to extract aspect-based summaries and provide intelligent responses. Built comprehensive vector database infrastructure using Pinecone and FAISS for efficient semantic search and information retrieval. Fine-tuned Llama models using Reinforcement Learning from Human Feedback (RLHF) and QLoRA techniques for memory-efficient training. Integrated LangChain framework for dynamic prompt orchestration and context management. Achieved significant performance improvements including 70% reduction in GPU memory usage and 30% reduction in training time. Implemented feedback mechanisms and continuous learning capabilities to improve model performance over time. Created production-ready deployment using FastAPI and implemented comprehensive monitoring and logging systems.",
       "media": {
         "type": "image",
-        "src": "images/heat-pipe-simulation.png",
+        "src": "images/rag-chatbot-system.png",
         "poster": null
       },
       "techStack": [
-        "ANSYS Icepak",
-        "Thermal Modeling",
-        "Computational Fluid Dynamics (CFD)",
-        "Heat Transfer Analysis",
-        "Orthotropic Modeling",
-        "Temperature Analysis",
-        "Airflow Simulation"
+        "RAG (Retrieval-Augmented Generation)",
+        "BERT",
+        "OpenAI GPT-4",
+        "Pinecone",
+        "FAISS",
+        "Hugging Face Transformers",
+        "LangChain",
+        "FastAPI",
+        "Vector Databases"
       ],
       "metrics": [
-        {"value": "Advanced", "label": "Thermal Modeling"},
-        {"value": "Validated", "label": "Thermal Efficiency"},
-        {"value": "Optimized", "label": "Heat Transfer"}
+        {"value": "40%", "label": "Manual Reduction"},
+        {"value": "70%", "label": "GPU Memory Saved"},
+        {"value": "Advanced", "label": "RAG System"}
       ],
       "links": {
         "website": null,
@@ -260,63 +314,66 @@
       "isExpandable": true
     },
     {
-      "id": "automotive-subsystem-design",
-      "title": "Automotive Sub-System Design",
-      "year": "2023",
-      "category": "engineering",
-      "shortDescription": "Optimized design and routing for automotive electrical systems achieving 10% wiring harness cost reduction through clash detection.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>10% Cost Reduction</span><span class='metric'>Clash Detection</span><span class='metric'>Optimized Layouts</span><span class='metric'>Multiple Systems</span></div><br/>Comprehensive automotive electrical systems design project focusing on fuel feed pump, radiator fan, tail lamp, and starter motor assemblies. Implemented advanced CAD modeling techniques using NX and Pro-E to develop optimized component routing strategies that minimize interference with vehicle body structures. Conducted systematic clash detection analysis to identify and resolve potential assembly conflicts early in the design process. Applied design optimization principles to achieve significant 10% reduction in wiring harness costs through strategic routing path planning and standardization initiatives. Developed detailed assembly drawings and manufacturing instructions ensuring seamless integration with existing automotive platforms. Project demonstrated successful application of cost-effective design practices while maintaining functional performance requirements and regulatory compliance standards for automotive electrical systems.",
-      "media": {
-        "type": "image",
-        "src": "images/automotive-subsystem-design.png",
-        "poster": null
-      },
-      "techStack": [
-        "CAD (NX, Pro-E)",
-        "FEA Validation",
-        "Clash Detection",
-        "Routing Optimization",
-        "Automotive Systems",
-        "Cost Engineering",
-        "Design Validation"
-      ],
-      "metrics": [
-        {"value": "10%", "label": "Cost Reduction"},
-        {"value": "4", "label": "System Types"},
-        {"value": "Optimized", "label": "Routing"}
-      ],
-      "links": {
-        "website": null,
-        "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    },
-    {
-      "id": "locomotive-component-definition",
-      "title": "Locomotive Component Definition",
+      "id": "real-time-data-pipeline",
+      "title": "Real-time Banking Data Pipeline",
       "year": "2022",
-      "category": "engineering",
-      "shortDescription": "Product Definition Engineering support for locomotive systems with 15% rework reduction through ASME Y14.5 GD&T compliance.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>15% Rework Reduction</span><span class='metric'>ASME Y14.5 Compliance</span><span class='metric'>PLM Integration</span><span class='metric'>Locomotive Systems</span></div><br/>Comprehensive Product Definition Engineering (PDE) project supporting locomotive system development through advanced CAD modeling and documentation practices. Developed manufacturable designs for sheet metal, piping, and wire harness systems utilizing Teamcenter PLM platform for integrated product lifecycle management. Implemented rigorous ASME Y14.5 Geometric Dimensioning and Tolerancing (GD&T) standards to ensure precise manufacturing specifications and assembly requirements. Achieved significant 15% reduction in design rework through enhanced design validation processes and cross-functional collaboration with manufacturing teams. Established standardized documentation practices and drawing conventions that improved design communication and reduced interpretation errors. Applied locomotive industry standards and regulatory compliance requirements throughout the design process, ensuring safety-critical component specifications met all performance and reliability standards.",
+      "category": "data-engineering",
+      "shortDescription": "High-performance ETL pipeline processing 10TB+ daily data with 35% query optimization and real-time streaming capabilities.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>10TB+ Daily Processing</span><span class='metric'>35% Query Optimization</span><span class='metric'>Real-time Streaming</span><span class='metric'>100K-2M Records</span></div><br/>Architected and implemented enterprise-scale real-time data processing pipeline for banking operations, handling massive volumes of financial data with strict performance and reliability requirements. Developed optimized SQL queries and DDL scripts with advanced indexing strategies, achieving significant performance improvements for complex datasets. Built distributed data processing workflows using Python, PySpark, and Spark SQL, enabling efficient data transformation and analysis. Implemented real-time streaming architecture using Google Cloud Pub/Sub and Apache Kafka for low-latency processing of critical financial transactions. Utilized Hadoop Distributed File System (HDFS) for scalable storage and Spark SQL for efficient querying across distributed data. Created comprehensive ETL pipelines capable of processing 100K to 2M records with diverse schemas, maintaining data quality and consistency. Applied advanced statistical modeling techniques including ROC analysis, confusion matrices, and PCA for predictive analytics. Automated workflow orchestration using Apache Airflow, managing 100+ data workflows in GCP environment.",
       "media": {
         "type": "image",
-        "src": "images/locomotive-component-definition.png",
+        "src": "images/real-time-data-pipeline.png",
         "poster": null
       },
       "techStack": [
-        "Teamcenter PLM",
-        "ASME Y14.5 GD&T",
-        "CAD Modeling",
-        "Product Definition Engineering",
-        "Sheet Metal Design",
-        "Wire Harness Design",
-        "Locomotive Systems"
+        "PySpark",
+        "Apache Kafka",
+        "Google Cloud Pub/Sub",
+        "HDFS",
+        "Apache Airflow",
+        "SQL Optimization",
+        "ETL Pipelines",
+        "Statistical Modeling",
+        "Real-time Processing"
       ],
       "metrics": [
-        {"value": "15%", "label": "Rework Reduction"},
-        {"value": "ASME", "label": "Standards Compliance"},
-        {"value": "PLM", "label": "Integration"}
+        {"value": "10TB+", "label": "Daily Processing"},
+        {"value": "35%", "label": "Query Optimization"},
+        {"value": "Real-time", "label": "Streaming"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "academic-publication-analysis",
+      "title": "Academic Publication Research",
+      "year": "2023",
+      "category": "research",
+      "shortDescription": "Research publication on artificial neural network modeling for hybrid composites in powder metallurgy applications.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Academic Research</span><span class='metric'>Neural Networks</span><span class='metric'>Materials Science</span><span class='metric'>Published Paper</span></div><br/>Conducted comprehensive research on artificial neural network modeling applications in materials science, specifically focusing on aluminum/Al2O3/fly ash hybrid composites prepared through powder metallurgy techniques. Developed advanced machine learning models to predict material properties and optimize manufacturing processes. Applied neural network architectures to analyze complex relationships between composite composition, processing parameters, and resulting material characteristics. Utilized statistical analysis and experimental validation to ensure model accuracy and reliability. Implemented data preprocessing techniques, feature engineering, and model optimization strategies to achieve robust predictive performance. Collaborated with materials science researchers to validate theoretical predictions with experimental results. Published findings in peer-reviewed academic journal, contributing to the advancement of AI applications in materials engineering. Created comprehensive documentation and reproducible analysis workflows for future research applications. Research demonstrates the successful integration of machine learning techniques with traditional materials science methodologies.",
+      "media": {
+        "type": "image",
+        "src": "images/academic-publication-analysis.png",
+        "poster": null
+      },
+      "techStack": [
+        "Neural Networks",
+        "Materials Science",
+        "Statistical Analysis",
+        "Python",
+        "Academic Research",
+        "Data Analysis",
+        "Machine Learning",
+        "Powder Metallurgy"
+      ],
+      "metrics": [
+        {"value": "Published", "label": "Research Paper"},
+        {"value": "Neural", "label": "Network Modeling"},
+        {"value": "Materials", "label": "Science Application"}
       ],
       "links": {
         "website": null,
@@ -329,32 +386,44 @@
   
   "certifications": [
     {
-      "title": "Six Sigma Green Belt",
-      "organization": "Institute of Industrial and Systems Engineers (IISE)",
+      "title": "Oracle Cloud Infrastructure GenAI",
+      "organization": "Oracle",
       "year": "2024",
-      "badge": "images/six-sigma-green-belt-badge.png"
+      "badge": "images/oracle-genai-certification-badge.png"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "organization": "Amazon Web Services",
+      "year": "2023",
+      "badge": "images/aws-cloud-practitioner-badge.png"
+    },
+    {
+      "title": "Databricks Certified Developer",
+      "organization": "Databricks",
+      "year": "2023",
+      "badge": "images/databricks-developer-badge.png"
     }
   ],
 
   "education": [
     {
-      "degree": "Master of Engineering in Information Technology",
-      "institution": "University of the Cumberlands",
+      "degree": "Master's in Data Science",
+      "institution": "University of North Texas",
       "location": "USA",
-      "year": "May 2025",
-      "logo": "images/university-cumberlands-logo-optimized.png"
+      "year": "Current (3.9 GPA)",
+      "logo": "images/university-north-texas-logo.png"
     },
     {
-      "degree": "Bachelor of Technology in Mechanical Engineering",
-      "institution": "RGM College of Engineering & Technology",
+      "degree": "Bachelor of Technology",
+      "institution": "Lakireddy Balireddy College of Engineering",
       "location": "India",
-      "year": "May 2019",
-      "logo": "images/rgm-college-logo-optimized.png"
+      "year": "Completed (75%)",
+      "logo": "images/lakireddy-balireddy-college-logo.png"
     }
   ],
   
   "siteConfig": {
-    "siteTitle": "Venkata Sai Satish Somesula - Mechanical Design & Reliability Engineer",
+    "siteTitle": "Anusha Yaramala - Certified GenAI Specialist & Data Scientist",
     "favicon": null,
     "themeColors": {
       "primaryRed": "#2E86AB",
@@ -365,7 +434,7 @@
       "bgLight": "#f8f9fa",
       "white": "#ffffff"
     },
-    "domain": "satish-somesula.com",
+    "domain": "anusha-yaramala.com",
     "googleAnalytics": null
   }
 }

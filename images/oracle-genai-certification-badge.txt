@@ -1,0 +1,30 @@
+PLACEHOLDER: Oracle GenAI Certification Badge
+==========================================
+
+Certification: Oracle Cloud Infrastructure GenAI Certified Professional
+Program: OCI 2024/2025 Generative AI Professional
+Provider: Oracle University
+
+Badge Access:
+- Official badges available through Oracle CertView (certview.oracle.com)
+- Requires Oracle account authentication
+- No longer distributed via Credly
+- Digital badges include verification links
+
+Badge Features:
+- Oracle red and white branding
+- Professional certification styling
+- Shareable on LinkedIn, Twitter, Facebook
+- Verification page with credential details
+
+Action Required for Portfolio:
+- Badge holder must login to Oracle CertView
+- Download official digital badge PNG/SVG
+- Or use generic Oracle certification icon
+- Ensure compliance with Oracle trademark guidelines
+
+Alternative:
+Create text-based badge: "Oracle Cloud Infrastructure GenAI Certified Professional"
+
+Oracle Legal: Certification logos are protected assets
+Contact: Oracle Certification Support for issues
