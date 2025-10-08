@@ -1,53 +1,54 @@
 {
   "profile": {
-    "name": "Anusha Yaramala",
-    "title": "Certified GenAI Specialist & Data Scientist",
-    "organization": "4+ Years Experience | Texas, USA",
+    "name": "Shilpa Kuppili",
+    "title": "AI/ML Engineer",
+    "organization": "5+ Years Experience | Harrison, NJ",
     "profileImage": "assets/PIC.jpg",
-    "cvPath": "assets/Anusha_DS_Resume.pdf",
+    "cvPath": "assets/Shilpa_Kuppili_Resume.pdf",
     "metrics": [
-      "4+ Years Experience",
-      "40% Manual Calls Reduction",
-      "70% GPU Memory Reduction",
-      "91.68% F1 Score Achievement"
+      "5+ Years Experience",
+      "22% Accuracy Improvement",
+      "40% Processing Reduction",
+      "92% Classification Accuracy"
     ]
   },
-  
+
   "bio": {
-    "introduction": "<span class=\"highlight\">Certified GenAI Specialist and highly skilled Data Scientist</span> with <span class=\"highlight\">4+ years of extensive experience</span> in designing and deploying MLOps pipelines and data processing using BigData and Python. Expertise in <span class=\"highlight\">leveraging LLMs, AWS, Azure and GCP services</span> for enterprise-scale solutions. Proven track record in <span class=\"highlight\">multi-model RAGs, neural networks, and cloud architecture</span>, delivering measurable business impact through advanced AI and data science implementations.",
-    "background": "Proficient in <span class=\"highlight\">Programming Languages: Python, R, C++, Java, Linux</span> with deep expertise in GenAI technologies including <span class=\"highlight\">GPT-4, Claude, Co-pilot, FastAPI, MCP, Semantic search, Vertex AI</span>. Advanced experience with <span class=\"highlight\">Cloud Tech Stack: AWS (Glue, RDS, S3, Athena, EC2, Redshift, Lambda), Azure DevOps, GCP, BigQuery, Airflow</span> and comprehensive knowledge of <span class=\"highlight\">Big Data Ecosystem: PySpark, Snowflake, Kafka, Flink, Hadoop, Delta Lake</span>.",
-    "researchFocus": "Specialized in <span class=\"highlight\">RAG and BERT models with LLMs</span> to enhance contextual understanding and extract aspect-based summaries from policy documents. Expert in <span class=\"highlight\">Agentic systems, vector databases (Pinecone, FAISS)</span>, and fine-tuning Llama using RLHF and QLoRA for memory-efficient training. Demonstrated success in <span class=\"highlight\">reducing manual calls by 40%</span>, <span class=\"highlight\">achieving 70% GPU memory reduction</span>, and <span class=\"highlight\">delivering 91.68% F1 score</span> through advanced neural network architectures and cloud-optimized ML implementations."
+    "introduction": "<span class=\"highlight\">AI/ML Engineer with 5+ years of hands-on experience</span> designing, building, and deploying machine learning models and data-driven systems. Skilled in solving real-world problems using <span class=\"highlight\">supervised and unsupervised learning, natural language processing, and deep learning techniques</span>. Strong background in <span class=\"highlight\">Python, TensorFlow, and cloud platforms like AWS, GCP, and Azure</span>. Proven track record of delivering production-ready ML solutions that improve decision-making, automate workflows, and support business goals.",
+    "background": "Expertise in <span class=\"highlight\">Machine Learning & Deep Learning</span> including supervised learning, unsupervised learning, neural networks, time series forecasting, anomaly detection, transfer learning, and ensemble methods. Advanced experience with <span class=\"highlight\">Generative AI & LLMs</span> including transformers, fine-tuning, RAG (Retrieval-Augmented Generation), LangChain, Autogen, and embedding models. Proficient in <span class=\"highlight\">Cloud & MLOps</span> using AWS (SageMaker, EC2, S3, Lambda), GCP (Vertex AI, BigQuery), Azure (Azure ML, Copilot Studio), Docker, Kubernetes, MLflow, and DVC.",
+    "researchFocus": "Specialized in <span class=\"highlight\">production-grade ML systems</span> with demonstrated success in healthcare risk prediction, behavioral health AI, document understanding, and computer vision applications. Expert in <span class=\"highlight\">prompt engineering techniques</span> including few-shot prompting, chain-of-thought reasoning, and tool use integration. Proven ability to deploy models using <span class=\"highlight\">Flask, FastAPI, TensorFlow Serving</span>, achieving <span class=\"highlight\">22% improvement in early intervention accuracy</span>, <span class=\"highlight\">40% reduction in manual processing time</span>, and <span class=\"highlight\">92% document classification accuracy</span> across enterprise-scale applications."
   },
-  
+
   "contact": {
-    "email": "anushayaramala31@gmail.com",
-    "phone": "+1 (940) 977-1496",
-    "location": "Texas, USA",
-    "linkedin": null,
+    "email": "shilpakp333@gmail.com",
+    "phone": "+1 (984) 318-4336",
+    "location": "Harrison, NJ",
+    "githubUsername": "shilpa99999",
+    "linkedin": "https://www.linkedin.com/in/shilpa-kuppili-a80ba2126/",
     "github": null,
     "googleScholar": null,
     "twitter": null,
     "website": null,
     "trailhead": null
   },
-  
+
   "navigation": [
     {"label": "About", "href": "#banner"},
     {"label": "Experience", "href": "#publications"},
     {"label": "Projects", "href": "#projects"},
     {"label": "Skills", "href": "#skills"},
     {"label": "Education", "href": "#education"},
-    {"label": "Contact", "href": "mailto:anushayaramala31@gmail.com"}
+    {"label": "Contact", "href": "mailto:shilpakp333@gmail.com"}
   ],
-  
+
   "publications": [
     {
-      "id": "bright-house-financial",
-      "title": "GenAI Specialist",
-      "authors": "Bright house financial | USA",
-      "venue": "Sept 2024 – Present",
-      "description": "<div class='impact-metrics'><span class='metric'>40% Manual Calls Reduction</span><span class='metric'>70% GPU Memory Reduction</span><span class='metric'>RAG & BERT Models</span><span class='metric'>Agentic Systems</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed RAG and BERT models with LLMs</strong> to enhance contextual understanding and extract required aspect-based summaries from client policy documents using TensorFlow, Hugging Face transformers, and OpenAI, <span class='highlight'>reducing manual calls by 40%</span><br/>• <strong>Implemented Agentic systems with vector databases</strong> like Pinecone and FAISS, fine-tuned Llama using RLHF and QLoRA for memory-efficient training, integrated with LangChain for dynamic prompt orchestration, <span class='highlight'>achieving 70% reduction in GPU memory usage and 30% reduction in training time</span><br/>• <strong>Optimized NLP libraries</strong> such as NLTK, spaCy, and scikit-learn for text analysis, chunking and sentiment analysis, <span class='highlight'>utilizing feedback mechanisms to train ML models</span> for more personalized user experiences<br/>• <strong>Built intelligent chatbot systems</strong> using OpenAI GPT-4 and Claude models, implementing semantic search and contextual understanding to <span class='highlight'>automate customer support workflows</span> and reduce response times<br/>• <strong>Presented complex data findings</strong> and insights from A/B tests and predictive analyses to clients, senior management, and stakeholders, <span class='highlight'>driving data-driven decision making</span> across business units<br/>• <strong>Deployed production-ready GenAI solutions</strong> using FastAPI and MCP protocols, ensuring scalable and reliable AI model serving in cloud environments<br/>• <strong>Implemented advanced prompt engineering</strong> techniques and fine-tuning strategies for domain-specific applications, <span class='highlight'>improving model accuracy and relevance</span> for financial services use cases",
-      "image": "images/bright-house-financial-logo.png",
+      "id": "humana",
+      "title": "AI/ML Engineer",
+      "authors": "Humana | USA",
+      "venue": "Aug 2025 – Present",
+      "description": "<div class='impact-metrics'><span class='metric'>22% Accuracy Improvement</span><span class='metric'>40% Processing Reduction</span><span class='metric'>Healthcare ML</span><span class='metric'>NLP Pipelines</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Engineered machine learning models</strong> using scikit-learn, XGBoost, and TensorFlow to identify high-risk individuals for chronic conditions, <span class='highlight'>resulting in a 22% improvement in early intervention accuracy</span> across Medicare Advantage plans<br/>• <strong>Built NLP pipelines</strong> using Hugging Face Transformers and spaCy to extract diagnoses, medications, and symptoms from unstructured physician notes, <span class='highlight'>enabling downstream analytics</span> that supported more personalized patient care strategies<br/>• <strong>Fine-tuned domain-specific large language models (LLMs)</strong> for automating clinical summary generation and insurance claims review workflows, <span class='highlight'>reducing manual processing time by 40%</span> and improving internal audit consistency<br/>• <strong>Implemented end-to-end MLOps pipelines</strong> integrating MLflow for experiment tracking, DVC for dataset versioning, and Jenkins for automated retraining, <span class='highlight'>ensuring reproducibility and compliance</span> with HIPAA data governance standards<br/>• <strong>Monitored production-grade models</strong> using FastAPI and TensorFlow Serving on AWS SageMaker, implementing scalable CI/CD pipelines via GitHub Actions and <span class='highlight'>enabling real-time support</span> for clinical decision-making tools",
+      "image": "images/humana-logo.svg",
       "links": {
         "paper": null,
         "github": null,
@@ -55,12 +56,12 @@
       }
     },
     {
-      "id": "texas-instruments",
-      "title": "Neural Network Engineer",
-      "authors": "Texas Instruments | USA",
-      "venue": "Feb 2023 – Jul 2024",
-      "description": "<div class='impact-metrics'><span class='metric'>91.68% F1 Score</span><span class='metric'>35% Complexity Reduction</span><span class='metric'>Azure Databricks</span><span class='metric'>70% Text Analysis Efficiency</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed and optimized neural network architectures</strong> using SciKit Learn, Pandas, Keras, PyTorch, NumPy, and Matplotlib within Azure Databricks environment, <span class='highlight'>achieving a 91.68% F1 score and reducing computational complexity by 35%</span><br/>• <strong>Implemented advanced NLP algorithms</strong> including Named Entity Recognition (NER) and Sentiment Analysis using VADER, <span class='highlight'>improving text analysis efficiency by 70%</span> and facilitating insight extraction from social media data<br/>• <strong>Designed and deployed scalable deep learning models</strong> into production using APIs and ML pipelines, <span class='highlight'>improving deployment efficiency by 30%</span> and ensuring robust model serving capabilities<br/>• <strong>Applied advanced topic modeling techniques</strong> using Latent Dirichlet Allocation (LDA) to uncover key themes and trends from textual data, implementing stemming and tokenization preprocessing techniques, <span class='highlight'>producing interactive visualizations with Plotly</span><br/>• <strong>Leveraged Azure DevOps and Git</strong> for version control and CI/CD best practices, while utilizing AWS SageMaker to automate workflows and manage infrastructure, <span class='highlight'>accelerating model scalability, training and deployment by 20%</span><br/>• <strong>Conducted comprehensive model evaluation</strong> using cross-validation techniques, hyperparameter tuning, and performance optimization strategies to ensure production-ready neural network solutions<br/>• <strong>Collaborated with semiconductor engineering teams</strong> to integrate ML models with hardware optimization processes, <span class='highlight'>enhancing overall system performance</span> and reliability",
-      "image": "images/texas-instruments-logo.png",
+      "id": "thoughti",
+      "title": "AI Full Stack Developer",
+      "authors": "Thoughti | USA",
+      "venue": "Feb 2025 – Aug 2025",
+      "description": "<div class='impact-metrics'><span class='metric'>25% Dropout Reduction</span><span class='metric'>40% Relevance Improvement</span><span class='metric'>Azure AI</span><span class='metric'>Copilot Studio</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed AI-powered chatbot</strong> on Microsoft Azure using Copilot Studio and Bot Framework, delivering personalized behavioral health support and <span class='highlight'>reducing user dropout rates by 25%</span><br/>• <strong>Trained CLU and CQA models</strong> in Azure AI Language Studio to classify user intent across five behavioral change stages, <span class='highlight'>improving interaction relevance by 40%</span><br/>• <strong>Streamlined the AI model lifecycle</strong> and secured data workflows using Azure Foundry, <span class='highlight'>reducing deployment time by 30%</span><br/>• <strong>Designed reusable prompt templates</strong> and chaining logic to align chatbot dialogue with user behavioral stage, improving coherence and emotional relevance<br/>• <strong>Orchestrated dynamic multi-step conversation flows</strong> in Copilot Studio and integrated 3+ external APIs for personalized response generation<br/>• <strong>Constructed language understanding pipelines</strong> to detect substance use indicators and symptoms, <span class='highlight'>achieving 87% precision in early detection</span><br/>• <strong>Led the development of an automated proposal drafting tool</strong> using Azure Foundry, Microsoft Fabric, and Autogen, reducing proposal creation time significantly<br/>• <strong>Architected a five-phase agent framework</strong> using Autogen and RAG for automated document analysis, <span class='highlight'>improving accuracy and speed by 50%</span><br/>• <strong>Mitigated LLM hallucinations by 35%</strong> and inference costs by 40% using tiered deployment of GPT-4.1 and o4-mini with prompt optimization",
+      "image": "images/thoughti-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -68,12 +69,12 @@
       }
     },
     {
-      "id": "deutsche-bank",
-      "title": "Data Engineer",
-      "authors": "Deutsche Bank | India",
-      "venue": "May 2021 – Jul 2022",
-      "description": "<div class='impact-metrics'><span class='metric'>35% Query Performance</span><span class='metric'>40% Data Transformation</span><span class='metric'>10 TB+ Real-time Processing</span><span class='metric'>25% Operational Efficiency</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed and optimized complex SQL queries and DDL scripts</strong>, <span class='highlight'>improving query performance by 35%</span> through advanced index optimization and executed queries for complex datasets exceeding 1 million rows<br/>• <strong>Optimized distributed data processing workflows</strong> using Python, PySpark, and Spark SQL, <span class='highlight'>reducing data transformation time by 40%</span> and enhancing predictive analytics and system efficiency by 20%<br/>• <strong>Implemented real-time data streaming solutions</strong> with Google Cloud Pub/Sub and Apache Kafka, enabling <span class='highlight'>low-latency processing of 10 TB+ of data</span> for critical banking operations<br/>• <strong>Leveraged Hadoop Distributed File System (HDFS)</strong> and Spark SQL for efficient distributed storage and querying, <span class='highlight'>ensuring scalable data architecture</span> for enterprise-level financial data processing<br/>• <strong>Managed comprehensive ETL pipelines</strong> handling 100K to 2M records with diverse schemas, <span class='highlight'>achieving data cleaning and transformation in 2 to 10 minutes</span> while maintaining data integrity and quality<br/>• <strong>Applied advanced statistical modeling techniques</strong> including ROC analysis, confusion matrices, chi-square tests, and PCA for model evaluation and optimization, <span class='highlight'>enhancing predictive model accuracy</span><br/>• <strong>Optimized Airflow orchestration workflows</strong> to automate 100+ data workflows in GCP environment, <span class='highlight'>enhancing operational efficiency by 25%</span> and reducing manual intervention requirements<br/>• <strong>Ensured data governance and compliance</strong> with banking regulations while implementing robust data quality monitoring and validation processes",
-      "image": "images/deutsche-bank-logo.png",
+      "id": "techcomb",
+      "title": "ML Intern",
+      "authors": "TechComb | Texas",
+      "venue": "Aug 2024 – Dec 2024",
+      "description": "<div class='impact-metrics'><span class='metric'>YOLOv8 Integration</span><span class='metric'>25% Inference Speed</span><span class='metric'>Computer Vision</span><span class='metric'>LLM Integration</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Engineered and implemented an LLM integrated bird detection and classification system</strong> using YOLOv8 for real-time bird localization and EfficientNet B0 for precise species identification<br/>• <strong>Pioneered LLM integration</strong> such as GPT-2 to provide detailed species-specific deterrent strategies, enhancing the system's practical utility<br/>• <strong>Integrated Gradio and optimized the end-to-end pipeline</strong>, <span class='highlight'>reducing inference time by 25%</span> and creating an intuitive user interface for non-technical users<br/>• <strong>Implemented real-time object detection</strong> using state-of-the-art YOLO architecture, achieving high accuracy in bird species classification across diverse environmental conditions<br/>• <strong>Developed comprehensive evaluation metrics</strong> and validation procedures to ensure model performance met production requirements",
+      "image": "images/techcomb-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -81,331 +82,485 @@
       }
     },
     {
-      "id": "vodafone",
-      "title": "Data Insights Analyst",
-      "authors": "Vodafone | India",
-      "venue": "Sept 2020 – May 2021",
-      "description": "<div class='impact-metrics'><span class='metric'>40% Query Performance</span><span class='metric'>Real-time Dashboards</span><span class='metric'>Cross-functional Collaboration</span><span class='metric'>Data-driven Decisions</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Improved query execution time by 40%</strong> by implementing stored procedures in SQL instead of multiple joins, <span class='highlight'>optimizing database performance</span> while managing procedures and solving problems in both development and production environments<br/>• <strong>Collaborated with cross-functional teams</strong> to develop comprehensive data-driven dashboards, <span class='highlight'>enabling real-time performance tracking and decision-making</span> across business units<br/>• <strong>Analyzed telecommunications data patterns</strong> to identify customer usage trends, network optimization opportunities, and revenue enhancement strategies, <span class='highlight'>supporting strategic business decisions</span><br/>• <strong>Implemented data quality monitoring systems</strong> to ensure accuracy and consistency of analytical reports, <span class='highlight'>reducing data discrepancies and improving stakeholder confidence</span> in analytics deliverables<br/>• <strong>Created automated reporting solutions</strong> using SQL and data visualization tools, <span class='highlight'>streamlining routine analytical processes</span> and freeing up time for strategic analysis<br/>• <strong>Conducted statistical analysis</strong> on customer behavior and network performance metrics, <span class='highlight'>providing actionable insights</span> to improve service quality and customer satisfaction<br/>• <strong>Managed database installations and configurations</strong> while troubleshooting complex data integration issues in both development and production environments<br/>• <strong>Developed KPI frameworks and metrics</strong> for business performance measurement, <span class='highlight'>establishing data-driven culture</span> within the organization",
-      "image": "images/vodafone-logo.png",
+      "id": "zsanalytics",
+      "title": "AI/ML Intern",
+      "authors": "ZSAnalytics | New York",
+      "venue": "May 2024 – Aug 2024",
+      "description": "<div class='impact-metrics'><span class='metric'>Custom GPT Model</span><span class='metric'>Mistral LLM</span><span class='metric'>NLP Tasks</span><span class='metric'>Knowledge Extraction</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Built a Custom GPT Model</strong> and fine-tuned transformer-based language models on enterprise call transcript data to extract relevant knowledge and summarize the transcript<br/>• <strong>Implemented a Mistral LLM Chatbot</strong> for varied NLP tasks to generate coherent and contextually relevant information across multiple business use cases<br/>• <strong>Developed end-to-end NLP pipelines</strong> for automatic summarization, entity extraction, and sentiment analysis from unstructured conversational data<br/>• <strong>Optimized model performance</strong> through prompt engineering and fine-tuning strategies, improving response quality and business relevance<br/>• <strong>Collaborated with cross-functional teams</strong> to integrate LLM capabilities into existing analytics workflows and dashboards",
+      "image": "images/zsanalytics-logo.png",
       "links": {
         "paper": null,
         "github": null,
         "status": null
       }
-    }
-  ],
-  
-  "skills": {
-    "programmingLanguages": [
-      "C (System Programming and Low-level Development)",
-      "Java (Enterprise Applications and Backend Development)",
-      "R (Statistical Computing and Data Analysis)",
-      "C++ (Systems Programming and Performance Optimization)",
-      "Linux (System Administration and Shell Scripting)",
-      "Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, OpenCV, MLFlow)"
-    ],
-    "genaiStack": [
-      "Multi-model RAGs (Retrieval-Augmented Generation Systems)",
-      "GPT-4 (OpenAI Large Language Model)",
-      "Claude (Anthropic AI Assistant and Language Model)",
-      "Co-pilot (GitHub AI-Powered Code Assistance)",
-      "Fast API (Modern Web Framework for APIs)",
-      "MCP (Model Context Protocol)",
-      "Semantic Search (Vector-based Information Retrieval)",
-      "Vertex AI (Google Cloud AI Platform)",
-      "Azure Factory (Microsoft AI Services)",
-      "LangChain (Framework for LLM Applications)",
-      "Hugging Face Transformers (Pre-trained Models)",
-      "RLHF (Reinforcement Learning from Human Feedback)",
-      "QLoRA (Quantized Low-Rank Adaptation for Memory-Efficient Training)"
-    ],
-    "cloudTechStack": [
-      "AWS (Glue, RDS, S3, Athena, EC2, RDS, Redshift, Lambda)",
-      "Databricks (Unified Analytics Platform)",
-      "GCP (Google Cloud Platform)",
-      "Azure DevOps (Microsoft Development Operations)",
-      "BigQuery (Google Cloud Data Warehouse)",
-      "Airflow (Apache Workflow Orchestration)"
-    ],
-    "bigDataEcosystem": [
-      "PySpark (Large-scale Data Processing)",
-      "Snowflake (Cloud Data Warehouse)",
-      "Kafka (Real-time Data Streaming)",
-      "Flink (Stream Processing)",
-      "Data Governance (Policies and Procedures)",
-      "Data Modeling (Dimensional and Relational Design)",
-      "Hadoop (Distributed Storage and Processing)",
-      "Delta Lake (Data Lake Storage Layer)",
-      "Delta Tables (ACID Transactions for Big Data)"
-    ],
-    "databasesStorage": [
-      "OLAP (Online Analytical Processing)",
-      "OLTP (Online Transaction Processing)",
-      "DBMS (Database Management Systems)",
-      "PostgreSQL (Advanced Open Source Database)",
-      "MySQL (Relational Database Management)",
-      "NoSQL (Non-relational Database Systems)",
-      "SQL Server (Microsoft Database Platform)",
-      "Mongo DB (Document-based NoSQL Database)",
-      "Data Governance (Policies and Procedures)",
-      "Metadata Management (Data Catalog and Lineage)"
-    ],
-    "machineLearningAlgorithms": [
-      "ANN (Artificial Neural Networks)",
-      "Linear Regression (Statistical Modeling)",
-      "CNN (Convolutional Neural Networks)",
-      "Logistic Regression (Classification)",
-      "RNN (Recurrent Neural Networks)",
-      "Decision Trees (Rule-based Learning)",
-      "SVM (Support Vector Machines)",
-      "Random Forests (Ensemble Method)",
-      "Naive Bayes (Probabilistic Classifier)"
-    ],
-    "dataScienceTools": [
-      "Jupyter Notebooks (Interactive Development)",
-      "scikit-learn (Machine Learning Library)",
-      "TensorFlow (Deep Learning Framework)",
-      "PyTorch (Neural Network Framework)",
-      "Keras (High-level Neural Networks API)",
-      "NLTK (Natural Language Toolkit)",
-      "spaCy (Advanced NLP Library)",
-      "Plotly (Interactive Visualizations)",
-      "Tableau (Business Intelligence)",
-      "Power BI (Microsoft Analytics Platform)",
-      "Git (Version Control System)",
-      "MLOps (Machine Learning Operations)"
-    ],
-    "industryDomains": [
-      "Financial Services and Banking",
-      "GenAI and Large Language Models",
-      "Telecommunications and Network Analytics",
-      "Healthcare and Life Sciences",
-      "Data Engineering and ETL Pipelines",
-      "Real-time Analytics and Streaming",
-      "Cloud Computing and Infrastructure",
-      "Business Intelligence and Reporting"
-    ],
-    "softSkills": [
-      "Problem Solving and Critical Thinking",
-      "Technical Documentation and Communication",
-      "Cross-functional Team Collaboration",
-      "Project Management and Planning",
-      "Data Storytelling and Visualization",
-      "Statistical Analysis and Interpretation",
-      "Model Evaluation and Validation",
-      "Stakeholder Presentation and Reporting"
-    ]
-  },
-  
-  "projects": [
+    },
     {
-      "id": "youtube-trend-analysis",
-      "title": "YouTube Trend Analysis Platform",
-      "year": "2024",
-      "category": "data-engineering",
-      "shortDescription": "Scalable AWS data pipeline analyzing YouTube video trends, processing 1M+ records daily with real-time insights and visualization.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>1M+ Daily Records</span><span class='metric'>80% Accuracy</span><span class='metric'>AWS Cloud Architecture</span><span class='metric'>Real-time Processing</span></div><br/>Developed a comprehensive, scalable data pipeline on AWS to analyze YouTube video trends and patterns, processing over 1 million records daily. Implemented end-to-end data architecture using S3 for storage, IAM for security, Lambda for serverless processing, Glue for ETL operations, and Athena for analytical queries. Built real-time data ingestion system that captures video metadata, engagement metrics, and trending patterns across multiple geographic regions. Created interactive dashboards using QuickSight for data visualization, enabling stakeholders to identify content trends, optimal publishing times, and audience engagement patterns. Applied advanced analytics and machine learning techniques to predict video performance and recommend content optimization strategies. Achieved 80% accuracy in trend prediction models while maintaining cost-effective cloud infrastructure. Implemented automated data quality checks and monitoring systems to ensure pipeline reliability and data integrity.",
-      "media": {
-        "type": "image",
-        "src": "images/youtube-trend-analysis.png",
-        "poster": null
-      },
-      "techStack": [
-        "AWS (S3, Lambda, Glue, Athena, QuickSight)",
-        "Python (Pandas, NumPy)",
-        "Apache Spark",
-        "SQL",
-        "Data Visualization",
-        "ETL Pipelines",
-        "Machine Learning",
-        "Real-time Analytics"
-      ],
-      "metrics": [
-        {"value": "1M+", "label": "Daily Records"},
-        {"value": "80%", "label": "Prediction Accuracy"},
-        {"value": "AWS", "label": "Cloud Platform"}
-      ],
+      "id": "motherson",
+      "title": "Senior Software Engineer",
+      "authors": "Motherson Technology Services Limited | Bangalore, India",
+      "venue": "Jun 2022 – Aug 2023",
+      "description": "<div class='impact-metrics'><span class='metric'>92% Accuracy</span><span class='metric'>CNN + LSTM</span><span class='metric'>Document AI</span><span class='metric'>Feature Selection</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Applied recursive feature selection techniques</strong> for document understanding using LLM-based prompts, enhancing model interpretability and performance<br/>• <strong>Developed an AI-powered document classification model</strong>, automating the categorization of records with <span class='highlight'>an accuracy of 92%</span> using a combination of CNN and LSTM architectures<br/>• <strong>Implemented end-to-end document processing pipeline</strong> including preprocessing, feature extraction, model training, and deployment to production systems<br/>• <strong>Optimized deep learning architectures</strong> through hyperparameter tuning and architecture search, achieving significant improvements in classification performance<br/>• <strong>Collaborated with enterprise teams</strong> to deploy models that automated manual document workflows, resulting in substantial time and cost savings",
+      "image": "images/motherson-logo.png",
       "links": {
-        "website": null,
+        "paper": null,
         "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
+        "status": null
+      }
     },
     {
-      "id": "neural-network-optimization",
-      "title": "Neural Network Architecture Optimization",
-      "year": "2023",
-      "category": "machine-learning",
-      "shortDescription": "Advanced neural network optimization achieving 91.68% F1 score with 35% computational complexity reduction using Azure Databricks.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>91.68% F1 Score</span><span class='metric'>35% Complexity Reduction</span><span class='metric'>Azure Databricks</span><span class='metric'>Production Ready</span></div><br/>Designed and optimized advanced neural network architectures for multi-class classification tasks using cutting-edge deep learning frameworks. Implemented comprehensive model development pipeline using scikit-learn, Pandas, Keras, PyTorch, and NumPy within Azure Databricks environment. Applied hyperparameter tuning, regularization techniques, and advanced optimization algorithms to achieve exceptional performance metrics. Developed automated model evaluation framework with cross-validation, performance monitoring, and A/B testing capabilities. Integrated the solution with production systems using REST APIs and containerized deployment strategies. Implemented MLOps best practices including version control, automated testing, continuous integration, and model monitoring. Results demonstrated significant improvement in model accuracy while reducing computational requirements, enabling cost-effective deployment at scale. Created comprehensive documentation and knowledge transfer materials for model maintenance and enhancement.",
-      "media": {
-        "type": "image",
-        "src": "images/neural-network-optimization.png",
-        "poster": null
-      },
-      "techStack": [
-        "PyTorch",
-        "Keras",
-        "scikit-learn",
-        "Azure Databricks",
-        "Python",
-        "MLOps",
-        "Docker",
-        "REST APIs",
-        "Model Optimization"
-      ],
-      "metrics": [
-        {"value": "91.68%", "label": "F1 Score"},
-        {"value": "35%", "label": "Complexity Reduction"},
-        {"value": "Production", "label": "Deployment"}
-      ],
+      "id": "tcs",
+      "title": "Software Engineer",
+      "authors": "Tata Consultancy Services | Bangalore, India",
+      "venue": "Dec 2018 – Jun 2022",
+      "description": "<div class='impact-metrics'><span class='metric'>15% Response Reduction</span><span class='metric'>30% Recommendation Boost</span><span class='metric'>ResNet50</span><span class='metric'>Conversational AI</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Created a conversational AI chatbot</strong> for financial advice, <span class='highlight'>reducing customer query response time by 15%</span> and improving customer satisfaction scores<br/>• <strong>Designed an image classification pipeline</strong> using pre-trained ResNet50 model to categorize fashion products into various styles, <span class='highlight'>increasing product recommendation accuracy by 30%</span><br/>• <strong>Implemented transfer learning techniques</strong> to adapt pre-trained models for domain-specific classification tasks with limited labeled data<br/>• <strong>Built and deployed RESTful APIs</strong> for serving ML models in production, ensuring scalability and reliability for high-traffic applications<br/>• <strong>Developed data preprocessing and augmentation pipelines</strong> to improve model robustness and generalization across diverse product categories<br/>• <strong>Collaborated with product and business teams</strong> to understand requirements and deliver ML solutions that directly supported revenue-generating features",
+      "image": "images/tcs-logo.svg",
       "links": {
-        "website": null,
+        "paper": null,
         "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    },
-    {
-      "id": "rag-chatbot-system",
-      "title": "RAG-Powered Intelligent Chatbot",
-      "year": "2024",
-      "category": "genai",
-      "shortDescription": "Advanced RAG system with LLMs for policy document analysis, reducing manual processing by 40% using vector databases and fine-tuned models.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>40% Manual Reduction</span><span class='metric'>70% GPU Memory Saved</span><span class='metric'>RAG + BERT Models</span><span class='metric'>Vector Databases</span></div><br/>Developed sophisticated Retrieval-Augmented Generation (RAG) system integrated with BERT models and large language models to enhance contextual understanding of policy documents. Implemented advanced document processing pipeline using TensorFlow, Hugging Face transformers, and OpenAI APIs to extract aspect-based summaries and provide intelligent responses. Built comprehensive vector database infrastructure using Pinecone and FAISS for efficient semantic search and information retrieval. Fine-tuned Llama models using Reinforcement Learning from Human Feedback (RLHF) and QLoRA techniques for memory-efficient training. Integrated LangChain framework for dynamic prompt orchestration and context management. Achieved significant performance improvements including 70% reduction in GPU memory usage and 30% reduction in training time. Implemented feedback mechanisms and continuous learning capabilities to improve model performance over time. Created production-ready deployment using FastAPI and implemented comprehensive monitoring and logging systems.",
-      "media": {
-        "type": "image",
-        "src": "images/rag-chatbot-system.png",
-        "poster": null
-      },
-      "techStack": [
-        "RAG (Retrieval-Augmented Generation)",
-        "BERT",
-        "OpenAI GPT-4",
-        "Pinecone",
-        "FAISS",
-        "Hugging Face Transformers",
-        "LangChain",
-        "FastAPI",
-        "Vector Databases"
-      ],
-      "metrics": [
-        {"value": "40%", "label": "Manual Reduction"},
-        {"value": "70%", "label": "GPU Memory Saved"},
-        {"value": "Advanced", "label": "RAG System"}
-      ],
-      "links": {
-        "website": null,
-        "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    },
-    {
-      "id": "real-time-data-pipeline",
-      "title": "Real-time Banking Data Pipeline",
-      "year": "2022",
-      "category": "data-engineering",
-      "shortDescription": "High-performance ETL pipeline processing 10TB+ daily data with 35% query optimization and real-time streaming capabilities.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>10TB+ Daily Processing</span><span class='metric'>35% Query Optimization</span><span class='metric'>Real-time Streaming</span><span class='metric'>100K-2M Records</span></div><br/>Architected and implemented enterprise-scale real-time data processing pipeline for banking operations, handling massive volumes of financial data with strict performance and reliability requirements. Developed optimized SQL queries and DDL scripts with advanced indexing strategies, achieving significant performance improvements for complex datasets. Built distributed data processing workflows using Python, PySpark, and Spark SQL, enabling efficient data transformation and analysis. Implemented real-time streaming architecture using Google Cloud Pub/Sub and Apache Kafka for low-latency processing of critical financial transactions. Utilized Hadoop Distributed File System (HDFS) for scalable storage and Spark SQL for efficient querying across distributed data. Created comprehensive ETL pipelines capable of processing 100K to 2M records with diverse schemas, maintaining data quality and consistency. Applied advanced statistical modeling techniques including ROC analysis, confusion matrices, and PCA for predictive analytics. Automated workflow orchestration using Apache Airflow, managing 100+ data workflows in GCP environment.",
-      "media": {
-        "type": "image",
-        "src": "images/real-time-data-pipeline.png",
-        "poster": null
-      },
-      "techStack": [
-        "PySpark",
-        "Apache Kafka",
-        "Google Cloud Pub/Sub",
-        "HDFS",
-        "Apache Airflow",
-        "SQL Optimization",
-        "ETL Pipelines",
-        "Statistical Modeling",
-        "Real-time Processing"
-      ],
-      "metrics": [
-        {"value": "10TB+", "label": "Daily Processing"},
-        {"value": "35%", "label": "Query Optimization"},
-        {"value": "Real-time", "label": "Streaming"}
-      ],
-      "links": {
-        "website": null,
-        "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    },
-    {
-      "id": "academic-publication-analysis",
-      "title": "Academic Publication Research",
-      "year": "2023",
-      "category": "research",
-      "shortDescription": "Research publication on artificial neural network modeling for hybrid composites in powder metallurgy applications.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>Academic Research</span><span class='metric'>Neural Networks</span><span class='metric'>Materials Science</span><span class='metric'>Published Paper</span></div><br/>Conducted comprehensive research on artificial neural network modeling applications in materials science, specifically focusing on aluminum/Al2O3/fly ash hybrid composites prepared through powder metallurgy techniques. Developed advanced machine learning models to predict material properties and optimize manufacturing processes. Applied neural network architectures to analyze complex relationships between composite composition, processing parameters, and resulting material characteristics. Utilized statistical analysis and experimental validation to ensure model accuracy and reliability. Implemented data preprocessing techniques, feature engineering, and model optimization strategies to achieve robust predictive performance. Collaborated with materials science researchers to validate theoretical predictions with experimental results. Published findings in peer-reviewed academic journal, contributing to the advancement of AI applications in materials engineering. Created comprehensive documentation and reproducible analysis workflows for future research applications. Research demonstrates the successful integration of machine learning techniques with traditional materials science methodologies.",
-      "media": {
-        "type": "image",
-        "src": "images/academic-publication-analysis.png",
-        "poster": null
-      },
-      "techStack": [
-        "Neural Networks",
-        "Materials Science",
-        "Statistical Analysis",
-        "Python",
-        "Academic Research",
-        "Data Analysis",
-        "Machine Learning",
-        "Powder Metallurgy"
-      ],
-      "metrics": [
-        {"value": "Published", "label": "Research Paper"},
-        {"value": "Neural", "label": "Network Modeling"},
-        {"value": "Materials", "label": "Science Application"}
-      ],
-      "links": {
-        "website": null,
-        "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    }
-  ],
-  
-  "certifications": [
-    {
-      "title": "Oracle Cloud Infrastructure GenAI",
-      "organization": "Oracle",
-      "year": "2024",
-      "badge": "images/oracle-genai-certification-badge.png"
-    },
-    {
-      "title": "AWS Certified Cloud Practitioner",
-      "organization": "Amazon Web Services",
-      "year": "2023",
-      "badge": "images/aws-cloud-practitioner-badge.png"
-    },
-    {
-      "title": "Databricks Certified Developer",
-      "organization": "Databricks",
-      "year": "2023",
-      "badge": "images/databricks-developer-badge.png"
+        "status": null
+      }
     }
   ],
 
-  "education": [
+  "skills": {
+    "programmingLanguages": [
+      "Python (Primary ML/AI Development Language)",
+      "Java (Enterprise Applications and Backend Systems)",
+      "C (System Programming and Performance-Critical Code)",
+      "C++ (High-Performance Computing and Optimization)",
+      "R (Statistical Computing and Data Analysis)",
+      "SQL (Database Queries and Data Manipulation)",
+      "TypeScript (Full-Stack Development and Type Safety)",
+      "Bash/Shell Scripting (Automation and DevOps)"
+    ],
+    "mlDeepLearning": [
+      "Supervised Learning (Classification, Regression)",
+      "Unsupervised Learning (Clustering, Dimensionality Reduction)",
+      "Neural Networks (Feedforward, Convolutional, Recurrent)",
+      "Deep Learning (CNN, LSTM, Transformer Architectures)",
+      "Time Series Forecasting (ARIMA, Prophet, LSTM)",
+      "Anomaly Detection (Isolation Forest, Autoencoders)",
+      "Transfer Learning (Pre-trained Model Fine-Tuning)",
+      "Active Learning (Human-in-the-Loop Training)",
+      "Semi-Supervised Learning (Pseudo-Labeling)",
+      "Model Evaluation (Cross-Validation, Metrics)",
+      "Feature Engineering (Selection, Extraction, Creation)",
+      "Hyperparameter Tuning (Grid Search, Bayesian Optimization)",
+      "Ensemble Methods (Bagging, Boosting, Stacking)"
+    ],
+    "genaiLLMs": [
+      "Generative AI (Text, Image, and Multi-modal Generation)",
+      "Large Language Models (GPT, Claude, Gemini, Mistral)",
+      "Transformers (BERT, GPT, T5, RoBERTa)",
+      "Fine-Tuning (LoRA, QLoRA, Full Fine-Tuning)",
+      "Retrieval-Augmented Generation (RAG Pipelines)",
+      "LangChain (LLM Application Framework)",
+      "Autogen (Multi-Agent AI Systems)",
+      "Tokenization (BPE, WordPiece, SentencePiece)",
+      "Embedding Models (Sentence Transformers, OpenAI Embeddings)",
+      "Context Optimization (Prompt Compression, Context Windows)",
+      "Few-shot Prompting (In-Context Learning)",
+      "Chain-of-Thought Reasoning (Step-by-Step Problem Solving)",
+      "Instruction Tuning (Alignment and Task-Specific Training)",
+      "Tool Use Integration (Function Calling, API Integration)",
+      "OpenAI API (GPT-4, GPT-3.5, Embeddings)",
+      "Hugging Face Transformers (Pre-trained Models Library)",
+      "Claude (Anthropic AI Assistant)",
+      "ChatGPT (Conversational AI Interface)",
+      "Gemini (Google's Multimodal AI)",
+      "Google NotebookLM (AI-Powered Research)",
+      "Cursor (AI-Powered Code Editor)",
+      "Copilot Studio (Microsoft Low-Code AI Development)"
+    ],
+    "mlFrameworks": [
+      "PyTorch (Deep Learning Framework)",
+      "TensorFlow (End-to-End ML Platform)",
+      "Keras (High-Level Neural Networks API)",
+      "Scikit-learn (Classical ML Algorithms)",
+      "Statsmodels (Statistical Modeling)",
+      "XGBoost (Gradient Boosting Framework)",
+      "LightGBM (Light Gradient Boosting)",
+      "NLTK (Natural Language Toolkit)",
+      "SpaCy (Industrial-Strength NLP)",
+      "OpenCV (Computer Vision Library)",
+      "Dlib (Face Recognition and Detection)",
+      "Matplotlib (Data Visualization)",
+      "Seaborn (Statistical Data Visualization)",
+      "Plotly (Interactive Visualizations)"
+    ],
+    "dataEngineering": [
+      "NumPy (Numerical Computing)",
+      "Pandas (Data Manipulation and Analysis)",
+      "Dask (Parallel Computing for Larger-than-Memory Data)",
+      "PySpark (Apache Spark Python API)",
+      "Apache Spark (Large-Scale Data Processing)",
+      "Polars (High-Performance DataFrame Library)",
+      "Apache Airflow (Workflow Orchestration)",
+      "Apache Kafka (Real-Time Data Streaming)",
+      "DBT (Data Build Tool for Transformations)"
+    ],
+    "cloudMLOps": [
+      "AWS SageMaker (End-to-End ML Platform)",
+      "AWS EC2 (Elastic Compute Cloud)",
+      "AWS S3 (Object Storage)",
+      "AWS Lambda (Serverless Computing)",
+      "GCP Vertex AI (Unified ML Platform)",
+      "GCP BigQuery (Data Warehouse)",
+      "Azure Machine Learning (ML Platform)",
+      "Azure Copilot Studio (AI Development)",
+      "Azure AI Language Studio (NLP Services)",
+      "Docker (Containerization)",
+      "Kubernetes (Container Orchestration)",
+      "MLflow (ML Lifecycle Management)",
+      "DVC (Data Version Control)",
+      "Weights & Biases (Experiment Tracking)",
+      "TensorBoard (Visualization for TensorFlow)",
+      "Git (Version Control)",
+      "GitHub Actions (CI/CD Automation)",
+      "Jenkins (Continuous Integration)",
+      "Argo Workflows (Kubernetes-Native Workflows)",
+      "CircleCI (Continuous Integration Platform)"
+    ],
+    "modelDeployment": [
+      "Flask (Lightweight Web Framework)",
+      "FastAPI (Modern API Framework)",
+      "gRPC (High-Performance RPC Framework)",
+      "ONNX (Open Neural Network Exchange)",
+      "TorchServe (PyTorch Model Serving)",
+      "TensorFlow Serving (Production ML Model Serving)",
+      "Streamlit (ML App Development)",
+      "Gradio (ML Model UI)",
+      "REST APIs (RESTful API Design)",
+      "GraphQL (Query Language for APIs)",
+      "API Rate Limiting (Traffic Management)",
+      "Caching Strategies (Redis, Memcached)"
+    ],
+    "databasesStorage": [
+      "PostgreSQL (Relational Database)",
+      "MySQL (Open Source Relational Database)",
+      "MongoDB (Document-Oriented NoSQL)",
+      "Redis (In-Memory Data Store)",
+      "DynamoDB (AWS NoSQL Database)",
+      "Cassandra (Distributed NoSQL Database)",
+      "Pinecone (Vector Database for Embeddings)",
+      "FAISS (Facebook AI Similarity Search)",
+      "ChromaDB (Vector Database)",
+      "Weaviate (Vector Search Engine)",
+      "HDFS (Hadoop Distributed File System)",
+      "Snowflake (Cloud Data Warehouse)",
+      "Google BigQuery (Serverless Data Warehouse)",
+      "Amazon Redshift (Data Warehouse)"
+    ],
+    "visualization": [
+      "Power BI (Microsoft Business Intelligence)",
+      "Tableau (Interactive Data Visualization)",
+      "Looker (Business Intelligence Platform)",
+      "Matplotlib (Python Plotting Library)",
+      "Seaborn (Statistical Data Visualization)",
+      "Plotly (Interactive Graphing Library)",
+      "Dash (Python Web App Framework)"
+    ],
+    "softSkills": [
+      "Problem Solving and Analytical Thinking",
+      "Cross-Functional Team Collaboration",
+      "Technical Documentation and Communication",
+      "Agile and Scrum Methodologies",
+      "Project Planning and Execution",
+      "Stakeholder Management and Presentation",
+      "Code Review and Mentoring",
+      "Research and Continuous Learning"
+    ]
+  },
+
+  "projects": [
     {
-      "degree": "Master's in Data Science",
-      "institution": "University of North Texas",
-      "location": "USA",
-      "year": "Current (3.9 GPA)",
-      "logo": "images/university-north-texas-logo.png"
+      "id": "healthcare-ml-risk",
+      "title": "Healthcare ML Risk Prediction System",
+      "year": "2025",
+      "category": "machine-learning",
+      "shortDescription": "Machine learning models to identify high-risk individuals for chronic conditions, achieving 22% improvement in early intervention accuracy.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>22% Accuracy Boost</span><span class='metric'>Medicare Advantage</span><span class='metric'>XGBoost + TensorFlow</span><span class='metric'>Production-Ready</span></div><br/>Engineered comprehensive machine learning models using scikit-learn, XGBoost, and TensorFlow to identify high-risk individuals for chronic conditions across Medicare Advantage plans. Built end-to-end NLP pipelines using Hugging Face Transformers and spaCy to extract structured information (diagnoses, medications, symptoms) from unstructured physician notes. Fine-tuned domain-specific large language models for automating clinical summary generation and insurance claims review workflows. Implemented complete MLOps infrastructure integrating MLflow for experiment tracking, DVC for dataset versioning, and Jenkins for automated model retraining. Deployed production-grade models using FastAPI and TensorFlow Serving on AWS SageMaker with scalable CI/CD pipelines via GitHub Actions. Results: 22% improvement in early intervention accuracy, 40% reduction in manual processing time, full HIPAA compliance, and real-time support for clinical decision-making tools.",
+      "media": {
+        "type": "image",
+        "src": "images/healthcare-ml-risk.svg",
+        "poster": null
+      },
+      "techStack": [
+        "scikit-learn",
+        "XGBoost",
+        "TensorFlow",
+        "Hugging Face Transformers",
+        "spaCy",
+        "AWS SageMaker",
+        "MLflow",
+        "DVC",
+        "FastAPI",
+        "Jenkins",
+        "GitHub Actions"
+      ],
+      "metrics": [
+        {"value": "22%", "label": "Accuracy Improvement"},
+        {"value": "40%", "label": "Processing Reduction"},
+        {"value": "HIPAA", "label": "Compliant"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "behavioral-health-chatbot",
+      "title": "Behavioral Health AI Chatbot",
+      "year": "2025",
+      "category": "genai",
+      "shortDescription": "Azure-based AI chatbot delivering personalized behavioral health support, reducing user dropout rates by 25%.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>25% Dropout Reduction</span><span class='metric'>40% Relevance Boost</span><span class='metric'>87% Detection Precision</span><span class='metric'>Azure AI</span></div><br/>Developed comprehensive AI-powered chatbot on Microsoft Azure using Copilot Studio and Bot Framework to deliver personalized behavioral health support. Trained CLU (Conversational Language Understanding) and CQA (Custom Question Answering) models in Azure AI Language Studio to classify user intent across five behavioral change stages. Streamlined AI model lifecycle and secured data workflows using Azure Foundry. Designed reusable prompt templates and advanced chaining logic to align chatbot dialogue with user behavioral stage. Orchestrated dynamic multi-step conversation flows and integrated 3+ external APIs for personalized response generation. Constructed language understanding pipelines to detect substance use indicators and symptoms with 87% precision. Deployed models via Azure Foundry with secure API endpoints ensuring scalable 24/7 access for 10K+ monthly users. Results: 25% reduction in user dropout, 40% improvement in interaction relevance, 87% precision in early detection, and 30% faster deployment time.",
+      "media": {
+        "type": "image",
+        "src": "images/behavioral-health-chatbot.svg",
+        "poster": null
+      },
+      "techStack": [
+        "Azure Copilot Studio",
+        "Azure Bot Framework",
+        "Azure AI Language Studio",
+        "Azure Foundry",
+        "CLU Models",
+        "CQA Models",
+        "Prompt Engineering",
+        "API Integration",
+        "Microsoft Fabric"
+      ],
+      "metrics": [
+        {"value": "25%", "label": "Dropout Reduction"},
+        {"value": "87%", "label": "Detection Precision"},
+        {"value": "10K+", "label": "Monthly Users"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "automated-proposal-tool",
+      "title": "Automated Proposal Generation Tool",
+      "year": "2025",
+      "category": "genai",
+      "shortDescription": "Multi-agent AI system using Autogen and RAG for automated proposal drafting, improving accuracy and speed by 50%.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>50% Speed Boost</span><span class='metric'>35% Hallucination Reduction</span><span class='metric'>40% Cost Savings</span><span class='metric'>Multi-Agent AI</span></div><br/>Led development of automated proposal drafting tool using Azure Foundry, Microsoft Fabric, and Autogen for intelligent document generation. Architected five-phase agent framework using Autogen and RAG (Retrieval-Augmented Generation) for automated document analysis and synthesis. Implemented tiered deployment strategy using GPT-4.1 for complex reasoning and o4-mini for routine tasks, with advanced prompt optimization. Developed multi-agent research pipeline using dynamic context injection and advanced prompt engineering techniques. Built comprehensive RAG system integrating vector databases for relevant information retrieval and context-aware generation. Created feedback loops and quality assurance mechanisms to ensure output accuracy and relevance. Results: 50% improvement in accuracy and speed, 35% reduction in LLM hallucinations, 40% reduction in inference costs, 45% faster response time, and significant time savings in proposal creation workflows.",
+      "media": {
+        "type": "image",
+        "src": "images/automated-proposal-tool.svg",
+        "poster": null
+      },
+      "techStack": [
+        "Autogen",
+        "RAG (Retrieval-Augmented Generation)",
+        "Azure Foundry",
+        "Microsoft Fabric",
+        "GPT-4.1",
+        "Vector Databases",
+        "Prompt Engineering",
+        "Multi-Agent Systems"
+      ],
+      "metrics": [
+        {"value": "50%", "label": "Speed Improvement"},
+        {"value": "35%", "label": "Hallucination Reduction"},
+        {"value": "40%", "label": "Cost Savings"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "bird-detection-system",
+      "title": "Bird Detection & Classification System",
+      "year": "2024",
+      "category": "machine-learning",
+      "shortDescription": "LLM-integrated bird detection system using YOLOv8 for localization and EfficientNet for species identification.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>YOLOv8</span><span class='metric'>EfficientNet B0</span><span class='metric'>25% Faster Inference</span><span class='metric'>LLM Integration</span></div><br/>Engineered and implemented comprehensive LLM-integrated bird detection and classification system for agricultural and ecological applications. Developed real-time bird localization pipeline using YOLOv8 (You Only Look Once) state-of-the-art object detection architecture. Implemented precise species identification using EfficientNet B0 transfer learning approach. Pioneered innovative LLM integration using GPT-2 to provide detailed species-specific deterrent strategies and contextual information. Integrated Gradio framework for intuitive user interface accessible to non-technical users. Optimized end-to-end pipeline through model quantization, inference optimization, and caching strategies, reducing inference time by 25%. Created comprehensive evaluation framework including precision, recall, F1-score, and real-world validation. Deployed production-ready system with REST API endpoints for integration with existing agricultural management systems.",
+      "media": {
+        "type": "image",
+        "src": "images/bird-detection-system.svg",
+        "poster": null
+      },
+      "techStack": [
+        "YOLOv8",
+        "EfficientNet B0",
+        "GPT-2",
+        "PyTorch",
+        "Gradio",
+        "OpenCV",
+        "Transfer Learning",
+        "REST APIs"
+      ],
+      "metrics": [
+        {"value": "Real-time", "label": "Detection"},
+        {"value": "25%", "label": "Faster Inference"},
+        {"value": "Production", "label": "Ready"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "custom-gpt-transcripts",
+      "title": "Custom GPT for Call Transcript Analysis",
+      "year": "2024",
+      "category": "genai",
+      "shortDescription": "Fine-tuned transformer models on enterprise call data for knowledge extraction and intelligent summarization.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Custom GPT</span><span class='metric'>Mistral LLM</span><span class='metric'>Knowledge Extraction</span><span class='metric'>Enterprise NLP</span></div><br/>Built custom GPT model and fine-tuned transformer-based language models on enterprise call transcript data for automated knowledge extraction and summarization. Implemented Mistral LLM chatbot for varied NLP tasks including summarization, entity extraction, sentiment analysis, and information retrieval. Developed end-to-end NLP pipelines for processing unstructured conversational data at scale. Optimized model performance through advanced prompt engineering, few-shot learning, and domain-specific fine-tuning strategies. Created evaluation framework measuring summary quality, factual accuracy, and business relevance. Integrated LLM capabilities into existing analytics workflows and business intelligence dashboards. Deployed scalable inference infrastructure supporting high-volume transcript processing. Implemented feedback mechanisms for continuous model improvement based on user interactions and business outcomes.",
+      "media": {
+        "type": "image",
+        "src": "images/custom-gpt-transcripts.svg",
+        "poster": null
+      },
+      "techStack": [
+        "GPT (Custom Fine-Tuned)",
+        "Mistral LLM",
+        "Hugging Face Transformers",
+        "Prompt Engineering",
+        "NLP Pipelines",
+        "Entity Extraction",
+        "Sentiment Analysis"
+      ],
+      "metrics": [
+        {"value": "Custom", "label": "GPT Model"},
+        {"value": "Enterprise", "label": "Scale"},
+        {"value": "Multi-task", "label": "NLP"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "document-classification",
+      "title": "AI Document Classification System",
+      "year": "2023",
+      "category": "machine-learning",
+      "shortDescription": "CNN+LSTM hybrid architecture for automated document categorization achieving 92% accuracy.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>92% Accuracy</span><span class='metric'>CNN + LSTM</span><span class='metric'>Document AI</span><span class='metric'>Production Deploy</span></div><br/>Developed comprehensive AI-powered document classification model automating categorization of enterprise records with 92% accuracy. Implemented hybrid deep learning architecture combining Convolutional Neural Networks (CNN) for feature extraction and Long Short-Term Memory (LSTM) networks for sequential pattern recognition. Applied recursive feature selection techniques for document understanding using LLM-based prompts to enhance model interpretability. Built end-to-end document processing pipeline including preprocessing, OCR integration, feature extraction, model training, and deployment. Optimized deep learning architectures through systematic hyperparameter tuning and neural architecture search. Created comprehensive evaluation framework with cross-validation, confusion matrices, and production monitoring. Deployed production system automating manual document workflows, achieving substantial time and cost savings. Integrated with enterprise document management systems via REST APIs.",
+      "media": {
+        "type": "image",
+        "src": "images/document-classification.svg",
+        "poster": null
+      },
+      "techStack": [
+        "CNN (Convolutional Neural Networks)",
+        "LSTM (Long Short-Term Memory)",
+        "TensorFlow",
+        "Keras",
+        "OCR (Optical Character Recognition)",
+        "Feature Engineering",
+        "LLM Prompts",
+        "REST APIs"
+      ],
+      "metrics": [
+        {"value": "92%", "label": "Accuracy"},
+        {"value": "Hybrid", "label": "CNN+LSTM"},
+        {"value": "Production", "label": "Deployed"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "financial-chatbot",
+      "title": "Financial Advice Conversational AI",
+      "year": "2022",
+      "category": "genai",
+      "shortDescription": "Conversational AI chatbot for financial advice, reducing customer query response time by 15%.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>15% Response Reduction</span><span class='metric'>Conversational AI</span><span class='metric'>NLP</span><span class='metric'>Customer Support</span></div><br/>Created comprehensive conversational AI chatbot for automated financial advice and customer support. Implemented natural language understanding pipeline for intent classification, entity extraction, and dialogue management. Developed context-aware response generation system providing personalized financial guidance. Integrated with backend systems for real-time account information, transaction history, and financial product recommendations. Built robust error handling and fallback mechanisms ensuring graceful degradation and human handoff when needed. Optimized response quality through prompt engineering and fine-tuning on financial domain conversations. Deployed scalable infrastructure supporting high-volume customer interactions with sub-second response times. Implemented comprehensive analytics and monitoring dashboards tracking user satisfaction, conversation success rates, and business impact. Results: 15% reduction in customer query response time, improved customer satisfaction scores, and reduced support team workload.",
+      "media": {
+        "type": "image",
+        "src": "images/financial-chatbot.svg",
+        "poster": null
+      },
+      "techStack": [
+        "Conversational AI",
+        "NLP (Natural Language Processing)",
+        "Intent Classification",
+        "Dialogue Management",
+        "Entity Extraction",
+        "Customer Support AI"
+      ],
+      "metrics": [
+        {"value": "15%", "label": "Response Reduction"},
+        {"value": "24/7", "label": "Availability"},
+        {"value": "High", "label": "Satisfaction"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "fashion-classifier",
+      "title": "Fashion Product Image Classification",
+      "year": "2021",
+      "category": "machine-learning",
+      "shortDescription": "ResNet50-based image classification pipeline for fashion products, increasing recommendation accuracy by 30%.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>30% Accuracy Boost</span><span class='metric'>ResNet50</span><span class='metric'>Transfer Learning</span><span class='metric'>Computer Vision</span></div><br/>Designed comprehensive image classification pipeline using pre-trained ResNet50 model to categorize fashion products into various style categories. Implemented transfer learning approach fine-tuning pre-trained ImageNet weights for fashion domain. Developed data preprocessing and augmentation pipeline including resizing, normalization, rotation, flipping, and color jittering to improve model robustness. Created multi-class classification system identifying product categories, styles, colors, and patterns. Optimized model architecture and hyperparameters achieving 30% improvement in product recommendation accuracy. Built and deployed RESTful APIs for serving ML models in production with load balancing and auto-scaling. Integrated with e-commerce platform's recommendation engine and search systems. Implemented comprehensive monitoring and A/B testing framework measuring business impact. Results: 30% increase in product recommendation accuracy, improved search relevance, higher customer engagement, and increased conversion rates.",
+      "media": {
+        "type": "image",
+        "src": "images/fashion-classifier.svg",
+        "poster": null
+      },
+      "techStack": [
+        "ResNet50",
+        "Transfer Learning",
+        "PyTorch",
+        "Computer Vision",
+        "Data Augmentation",
+        "REST APIs",
+        "A/B Testing"
+      ],
+      "metrics": [
+        {"value": "30%", "label": "Accuracy Increase"},
+        {"value": "ResNet50", "label": "Architecture"},
+        {"value": "Production", "label": "Scale"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
     }
   ],
-  
+
+  "certifications": [],
+
+  "education": [
+    {
+      "degree": "Master of Science in Artificial Intelligence",
+      "institution": "Yeshiva University",
+      "location": "New York, NY",
+      "year": "Aug 2023 – Dec 2024",
+      "logo": "images/yeshiva-university-logo.png"
+    }
+  ],
+
   "siteConfig": {
-    "siteTitle": "Anusha Yaramala - Certified GenAI Specialist & Data Scientist",
+    "siteTitle": "Shilpa Kuppili - AI/ML Engineer",
     "favicon": null,
     "themeColors": {
       "primaryRed": "#2E86AB",
@@ -416,7 +571,7 @@
       "bgLight": "#f8f9fa",
       "white": "#ffffff"
     },
-    "domain": "anusha-yaramala.com",
+    "domain": "shilpakuppili.com",
     "googleAnalytics": null
   }
 }
